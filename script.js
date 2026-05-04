@@ -3,7 +3,6 @@ let currentText = null;
 let currentLanguage = 'ru';
 let currentMode = 'highlight';
 let selectedWord = null;
-let selectedSentence = null;
 let currentWordElement = null;
 let currentTextId = null;
 
@@ -30,7 +29,6 @@ function goToTexts() {
 function loadTextsList() {
     const textsContainer = document.getElementById('textsContainer');
     textsContainer.innerHTML = '';
-    
     const texts = getAllTexts();
     texts.forEach(text => {
         const card = createTextCard(text);
@@ -46,7 +44,6 @@ function createTextCard(text) {
     card.className = 'text-card';
     card.onclick = () => openText(text.id);
 
-    // Header with gradient
     const header = document.createElement('div');
     header.className = 'text-card-header';
 
@@ -61,7 +58,6 @@ function createTextCard(text) {
     header.appendChild(iconEl);
     header.appendChild(title);
 
-    // Body
     const body = document.createElement('div');
     body.className = 'text-card-body';
 
@@ -106,15 +102,14 @@ function openText(textId) {
     currentText = getTextById(textId);
     currentLanguage = '';
     currentMode = 'highlight';
-    
+
     if (!currentText) {
         console.error('Text not found');
         return;
     }
-    
+
     document.getElementById('textTitle').textContent = currentText.title;
-    
-    // Update language select — only translation languages, no Russian
+
     const languageSelect = document.getElementById('languageSelect');
     languageSelect.innerHTML = '';
 
@@ -126,15 +121,13 @@ function openText(textId) {
         languageSelect.appendChild(option);
     });
 
-    // Default to first available language
     if (currentText.languages.length > 0) {
         currentLanguage = getLanguageCode(currentText.languages[0]);
         languageSelect.value = currentLanguage;
     }
-    
-    // Reset mode select
+
     document.getElementById('modeSelect').value = 'highlight';
-    
+
     updateTextDisplay();
     showPage('readerPage');
 }
@@ -151,13 +144,10 @@ function getLanguageCode(language) {
 
 function updateTextDisplay() {
     if (!currentText) return;
-    
     currentLanguage = document.getElementById('languageSelect').value;
     currentMode = document.getElementById('modeSelect').value;
-    
     const textContent = document.getElementById('textContent');
     textContent.innerHTML = '';
-    
     if (currentMode === 'full') {
         displayFullText();
     } else if (currentMode === 'sentences') {
@@ -171,34 +161,30 @@ function displayWordByWord() {
     const textContent = document.getElementById('textContent');
     const originalText = currentText.originalText;
     const sentences = originalText.split(/(?<=[.!?])\s+/);
-    
+
     sentences.forEach(sentence => {
         const p = document.createElement('p');
         const words = sentence.match(/\S+/g) || [];
-        
+
         words.forEach((word, idx) => {
             let cleanWord = word;
             let punctuation = '';
-            
-            // Separate punctuation
             const match = word.match(/^(.*?)([.!?,;:]*"?\s*)$/);
             if (match) {
                 cleanWord = match[1];
                 punctuation = match[2];
             }
-            
             if (cleanWord) {
                 const span = createWordSpan(cleanWord);
                 p.appendChild(span);
             }
-            
             if (punctuation) {
                 p.appendChild(document.createTextNode(punctuation));
             } else if (idx < words.length - 1) {
                 p.appendChild(document.createTextNode(' '));
             }
         });
-        
+
         textContent.appendChild(p);
     });
 }
@@ -223,20 +209,15 @@ function displayBySentences() {
         words.forEach((word, index) => {
             let cleanWord = word;
             let punctuation = '';
-
             const match = word.match(/^(.*?)([.!?,;:]*)$/);
             if (match) {
                 cleanWord = match[1];
                 punctuation = match[2];
             }
-
             if (cleanWord) {
                 const span = createWordSpan(cleanWord);
-                // In sentence mode, prevent word popup — sentence handles the click
-                span.onclick = (e) => { e.stopPropagation(); showSentencePopup(sentenceSpan, sentence); };
                 sentenceSpan.appendChild(span);
             }
-
             if (punctuation) {
                 sentenceSpan.appendChild(document.createTextNode(punctuation));
             } else if (index < words.length - 1) {
@@ -244,24 +225,22 @@ function displayBySentences() {
             }
         });
 
-        // Highlight whole sentence on hover
         sentenceSpan.addEventListener('mouseenter', () => {
             sentenceSpan.querySelectorAll('.word').forEach(w => {
-                w.style.backgroundColor = '#34c759';
+                w.style.backgroundColor = '#b5863a';
                 w.style.color = '#ffffff';
             });
         });
         sentenceSpan.addEventListener('mouseleave', () => {
             sentenceSpan.querySelectorAll('.word').forEach(w => {
                 w.style.backgroundColor = 'transparent';
-                w.style.color = '#1d1d1d';
+                w.style.color = '';
             });
         });
-
-        // Click anywhere in sentence (including words) shows sentence translation
         sentenceSpan.addEventListener('click', (e) => {
-            e.stopPropagation();
-            showSentencePopup(sentenceSpan, sentence);
+            if (!e.target.classList.contains('word')) {
+                showSentencePopup(sentenceSpan, sentence);
+            }
         });
 
         textContent.appendChild(sentenceSpan);
@@ -270,9 +249,6 @@ function displayBySentences() {
 }
 
 function showSentencePopup(sentenceElement, sentence) {
-    selectedSentence = sentence;
-    selectedWord = null;
-
     const popup = document.getElementById('wordPopup');
     const overlay = document.getElementById('overlay');
 
@@ -280,24 +256,30 @@ function showSentencePopup(sentenceElement, sentence) {
     document.getElementById('popupTranslation').textContent = getFullTranslation(sentence);
 
     const rect = sentenceElement.getBoundingClientRect();
-    popup.style.position = 'fixed';
-    popup.style.top = Math.max(10, rect.bottom + 8) + 'px';
-    popup.style.left = Math.max(10, rect.left) + 'px';
+    const popupW = 360;
+    const popupH = 200;
+    const margin = 10;
 
+    let top = rect.bottom + 8;
+    if (top + popupH > window.innerHeight - margin) top = rect.top - popupH - 8;
+    top = Math.max(margin, top);
+    let left = rect.left;
+    left = Math.max(margin, Math.min(left, window.innerWidth - popupW - margin));
+
+    popup.style.top = top + 'px';
+    popup.style.left = left + 'px';
     popup.style.display = 'block';
     overlay.style.display = 'block';
 }
 
 function displayFullText() {
     const textContent = document.getElementById('textContent');
-    
     let text = '';
     if (currentLanguage === 'ru') {
         text = currentText.originalText;
     } else {
         text = currentText.translations[currentLanguage] || 'Перевод недоступен';
     }
-    
     const p = document.createElement('p');
     p.textContent = text;
     textContent.appendChild(p);
@@ -307,49 +289,53 @@ function createWordSpan(word) {
     const span = document.createElement('span');
     span.className = 'word';
     span.textContent = word;
-    
+
     span.addEventListener('mouseenter', function() {
-        this.style.backgroundColor = '#34c759';
+        this.style.backgroundColor = '#b5863a';
         this.style.color = '#ffffff';
     });
-    
     span.addEventListener('mouseleave', function() {
         this.style.backgroundColor = 'transparent';
-        this.style.color = '#1d1d1d';
+        this.style.color = '';
     });
-    
     span.onclick = (e) => {
         e.stopPropagation();
         showWordPopup(span, word);
     };
-    
     return span;
 }
 
 function showWordPopup(wordElement, word) {
     currentWordElement = wordElement;
     selectedWord = word;
-    selectedSentence = null;
-    
+
     const popup = document.getElementById('wordPopup');
     const overlay = document.getElementById('overlay');
-    
+
     document.getElementById('popupWord').textContent = word;
-    
+
     let translation;
     if (currentLanguage === 'ru') {
         translation = 'Выберите другой язык';
     } else {
         translation = getWordTranslation(word, currentLanguage, currentTextId);
     }
-    
+
     document.getElementById('popupTranslation').textContent = translation;
-    
+
     const rect = wordElement.getBoundingClientRect();
-    popup.style.position = 'fixed';
-    popup.style.top = Math.max(10, rect.top - 150) + 'px';
-    popup.style.left = Math.max(10, rect.left - 100) + 'px';
-    
+    const popupW = 360;
+    const popupH = 220;
+    const margin = 10;
+
+    let top = rect.top - popupH - 8;
+    if (top < margin) top = rect.bottom + 8;
+    top = Math.min(top, window.innerHeight - popupH - margin);
+    let left = rect.left;
+    left = Math.max(margin, Math.min(left, window.innerWidth - popupW - margin));
+
+    popup.style.top = top + 'px';
+    popup.style.left = left + 'px';
     popup.style.display = 'block';
     overlay.style.display = 'block';
 }
@@ -360,87 +346,52 @@ function closeWordPopup() {
 }
 
 function showGrammar() {
-    closeWordPopup();
+    // First close the word popup and overlay
+    document.getElementById('wordPopup').style.display = 'none';
+    // Do NOT hide overlay — grammar popup needs it
 
-    const popup = document.getElementById('grammarPopup');
+    const wrapper = document.getElementById('grammarWrapper');
     const overlay = document.getElementById('overlay');
 
-    if (selectedSentence) {
-        // Sentence mode — show grammar for each word in sentence
-        document.getElementById('grammarWord').textContent = selectedSentence;
-        const grammarContent = document.getElementById('grammarContent');
-        grammarContent.innerHTML = '';
+    document.getElementById('grammarWord').textContent = selectedWord;
 
-        const words = selectedSentence.match(/[a-zA-Zа-яА-ЯёЁ]+/g) || [];
-        const uniqueWords = [...new Set(words)];
+    const grammarText = getGrammarInfo(selectedWord, currentTextId);
+    document.getElementById('grammarContent').textContent = grammarText;
 
-        if (uniqueWords.length === 0) {
-            grammarContent.textContent = 'Нет данных.';
-        } else {
-            uniqueWords.forEach(word => {
-                const info = getGrammarInfo(word, currentTextId);
-                if (info && info !== 'Нет информации') {
-                    const block = document.createElement('div');
-                    block.style.marginBottom = '0.8rem';
-                    block.innerHTML = `<strong style="color:#34c759">${word}:</strong> ${info}`;
-                    grammarContent.appendChild(block);
-                }
-            });
-            if (grammarContent.innerHTML === '') {
-                grammarContent.textContent = 'Грамматическая информация недоступна.';
-            }
-        }
-    } else {
-        // Word mode
-        document.getElementById('grammarWord').textContent = selectedWord;
-        const grammarText = getGrammarInfo(selectedWord, currentTextId);
-        document.getElementById('grammarContent').textContent = grammarText;
-    }
-
-    popup.style.display = 'block';
+    wrapper.classList.add('visible');
     overlay.style.display = 'block';
 }
 
 function closeGrammarPopup() {
-    document.getElementById('grammarPopup').style.display = 'none';
+    document.getElementById('grammarWrapper').classList.remove('visible');
     document.getElementById('overlay').style.display = 'none';
 }
 
 function closeAllPopups() {
-    closeWordPopup();
-    closeGrammarPopup();
+    document.getElementById('wordPopup').style.display = 'none';
+    document.getElementById('grammarWrapper').classList.remove('visible');
+    document.getElementById('overlay').style.display = 'none';
 }
 
 function getFullTranslation(sentence) {
     const words = sentence.match(/\S+/g) || [];
     const translated = words.map(word => {
-        // Strip punctuation for lookup, then re-attach
         const match = word.match(/^(.*?)([.!?,;:]*)$/);
         const cleanWord = match ? match[1] : word;
         const punct = match ? match[2] : '';
         return getWordTranslation(cleanWord, currentLanguage, currentTextId) + punct;
     }).join(' ');
-    
     return translated || 'Перевод недоступен';
 }
 
 document.addEventListener('keydown', (e) => {
-    if (e.key === 'Escape') {
-        closeAllPopups();
-    }
+    if (e.key === 'Escape') closeAllPopups();
 });
 
-if (document.getElementById('wordPopup')) {
-    document.getElementById('wordPopup').addEventListener('click', (e) => {
-        e.stopPropagation();
-    });
-}
-
-if (document.getElementById('grammarPopup')) {
-    document.getElementById('grammarPopup').addEventListener('click', (e) => {
-        e.stopPropagation();
-    });
-}
+const wordPopupEl = document.getElementById('wordPopup');
+if (wordPopupEl) wordPopupEl.addEventListener('click', e => e.stopPropagation());
+const grammarPopupEl = document.getElementById('grammarPopup');
+if (grammarPopupEl) grammarPopupEl.addEventListener('click', e => e.stopPropagation());
 
 window.addEventListener('load', async () => {
     await loadAllData();
