@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Read&Learn</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Main Home Page -->
+    <div id="homePage" class="page active">
+        <div class="home-container">
+            <div class="logo">Read&Learn</div>
+            <p class="tagline">Изучайте языки через чтение</p>
+            <button class="btn btn-primary btn-large" onclick="goToTexts()">Читать</button>
+        </div>
+    </div>
+
+    <!-- Texts List Page -->
+    <div id="textsPage" class="page">
+        <div class="header">
+            <button class="btn-back" onclick="goHome()">←</button>
+            <h1>Тексты</h1>
+            <div></div>
+        </div>
+        <div class="texts-container" id="textsContainer"></div>
+    </div>
+
+    <!-- Reader Page -->
+    <div id="readerPage" class="page">
+        <div class="header">
+            <button class="btn-back" onclick="goToTexts()">←</button>
+            <h1 id="textTitle"></h1>
+            <div></div>
+        </div>
+        
+        <div class="reader-controls">
+            <div class="control-group">
+                <label>Язык:</label>
+                <select id="languageSelect" onchange="updateTextDisplay()">
+                    <option value="ru">Русский (оригинал)</option>
+                </select>
+            </div>
+            
+            <div class="control-group">
+                <label>Режим:</label>
+                <select id="modeSelect" onchange="updateTextDisplay()">
+                    <option value="highlight">Перевод по словам</option>
+                    <option value="sentences">Перевод по предложениям</option>
+                    <option value="full">Показать переведенный текст</option>
+                </select>
+            </div>
+        </div>
+
+        <div class="text-content" id="textContent"></div>
+    </div>
+
+    <!-- Word Translation Popup -->
+    <div id="wordPopup" class="popup" style="display: none;">
+        <div class="popup-content">
+            <div class="popup-word" id="popupWord"></div>
+            <div class="popup-translation" id="popupTranslation"></div>
+            <button class="btn btn-secondary" onclick="showGrammar()">подробнее</button>
+            <button class="btn-close" onclick="closeWordPopup()">×</button>
+        </div>
+    </div>
+
+    <!-- Grammar Popup -->
+    <div id="grammarPopup" class="popup" style="display: none;">
+        <div class="popup-content grammar-popup">
+            <button class="btn-close" onclick="closeGrammarPopup()">×</button>
+            <h3 id="grammarWord"></h3>
+            <div id="grammarContent" class="grammar-content"></div>
+        </div>
+    </div>
+
+    <!-- Overlay for popups -->
+    <div id="overlay" class="overlay" onclick="closeAllPopups()" style="display: none;"></div>
+
+    <script src="data.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

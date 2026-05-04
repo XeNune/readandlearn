@@ -1,0 +1,292 @@
+{
+  "en": "In spring, nature awakens after a long winter sleep. Trees become covered with tender green leaves, and fields bloom with bright flowers. Birds return from warm countries and fill the forests with their songs. The sun shines brighter, days grow longer, and nights grow shorter.\n\nIn cities, people go for walks, children play in parks, and elderly people sit on benches warming themselves in the sun. Markets fill with fresh vegetables and fruits. Farmers begin to sow grain and prepare the land for the new harvest.\n\nSpring is a time of hope and new beginnings. Students prepare for exams, couples stroll along embankments, and artists go out to paint in the open air. The air smells of freshness and blossoming. Each day brings joy and a feeling that something good awaits ahead.",
+  "fr": "Au printemps, la nature se reveille apres un long sommeil hivernal. Les arbres se couvrent de tendres feuilles vertes et les champs s'epanouissent de fleurs colorees. Les oiseaux reviennent des pays chauds et remplissent les forets de leurs chants. Le soleil brille de plus en plus fort, les jours s'allongent et les nuits raccourcissent.\n\nDans les villes, les gens se promenent, les enfants jouent dans les parcs et les personnes agees s'assoient sur des bancs pour se rechauffer au soleil. Les marches se remplissent de legumes et de fruits frais. Les agriculteurs commencent a semer le grain et a preparer la terre pour la nouvelle recolte.\n\nLe printemps est un temps d'espoir et de nouveaux commencements. Les etudiants se preparent aux examens, les amoureux se promenent le long des quais, et les artistes sortent peindre en plein air. L'air sent la fraicheur et la floraison. Chaque jour apporte de la joie et le sentiment que quelque chose de beau attend devant.",
+  "Весной": {
+    "en": "In spring",
+    "fr": "Au printemps"
+  },
+  "природа": {
+    "en": "nature",
+    "fr": "la nature"
+  },
+  "просыпается": {
+    "en": "awakens",
+    "fr": "se reveille"
+  },
+  "после": {
+    "en": "after",
+    "fr": "apres"
+  },
+  "долгого": {
+    "en": "long",
+    "fr": "long"
+  },
+  "зимнего": {
+    "en": "winter",
+    "fr": "hivernal"
+  },
+  "сна": {
+    "en": "sleep",
+    "fr": "sommeil"
+  },
+  "Деревья": {
+    "en": "Trees",
+    "fr": "Les arbres"
+  },
+  "покрываются": {
+    "en": "become covered",
+    "fr": "se couvrent"
+  },
+  "нежными": {
+    "en": "tender",
+    "fr": "tendres"
+  },
+  "зелёными": {
+    "en": "green",
+    "fr": "vertes"
+  },
+  "листьями": {
+    "en": "leaves",
+    "fr": "feuilles"
+  },
+  "поля": {
+    "en": "fields",
+    "fr": "les champs"
+  },
+  "расцветают": {
+    "en": "bloom",
+    "fr": "s'epanouissent"
+  },
+  "яркими": {
+    "en": "bright",
+    "fr": "colorees"
+  },
+  "цветами": {
+    "en": "flowers",
+    "fr": "fleurs"
+  },
+  "Птицы": {
+    "en": "Birds",
+    "fr": "Les oiseaux"
+  },
+  "возвращаются": {
+    "en": "return",
+    "fr": "reviennent"
+  },
+  "тёплых": {
+    "en": "warm",
+    "fr": "chauds"
+  },
+  "стран": {
+    "en": "countries",
+    "fr": "pays"
+  },
+  "наполняют": {
+    "en": "fill",
+    "fr": "remplissent"
+  },
+  "леса": {
+    "en": "forests",
+    "fr": "forets"
+  },
+  "своими": {
+    "en": "their",
+    "fr": "leurs"
+  },
+  "песнями": {
+    "en": "songs",
+    "fr": "chants"
+  },
+  "Солнце": {
+    "en": "The sun",
+    "fr": "Le soleil"
+  },
+  "светит": {
+    "en": "shines",
+    "fr": "brille"
+  },
+  "ярче": {
+    "en": "brighter",
+    "fr": "plus fort"
+  },
+  "дни": {
+    "en": "days",
+    "fr": "les jours"
+  },
+  "становятся": {
+    "en": "become",
+    "fr": "deviennent"
+  },
+  "длиннее": {
+    "en": "longer",
+    "fr": "plus longs"
+  },
+  "ночи": {
+    "en": "nights",
+    "fr": "les nuits"
+  },
+  "короче": {
+    "en": "shorter",
+    "fr": "plus courtes"
+  },
+  "городах": {
+    "en": "cities",
+    "fr": "villes"
+  },
+  "люди": {
+    "en": "people",
+    "fr": "les gens"
+  },
+  "выходят": {
+    "en": "go out",
+    "fr": "sortent"
+  },
+  "прогулки": {
+    "en": "walks",
+    "fr": "promenades"
+  },
+  "дети": {
+    "en": "children",
+    "fr": "les enfants"
+  },
+  "играют": {
+    "en": "play",
+    "fr": "jouent"
+  },
+  "парках": {
+    "en": "parks",
+    "fr": "parcs"
+  },
+  "пожилые": {
+    "en": "elderly",
+    "fr": "agees"
+  },
+  "сидят": {
+    "en": "sit",
+    "fr": "s'assoient"
+  },
+  "скамейках": {
+    "en": "benches",
+    "fr": "bancs"
+  },
+  "греются": {
+    "en": "warm themselves",
+    "fr": "se rechauffent"
+  },
+  "Рынки": {
+    "en": "Markets",
+    "fr": "Les marches"
+  },
+  "свежими": {
+    "en": "fresh",
+    "fr": "frais"
+  },
+  "овощами": {
+    "en": "vegetables",
+    "fr": "legumes"
+  },
+  "фруктами": {
+    "en": "fruits",
+    "fr": "fruits"
+  },
+  "Фермеры": {
+    "en": "Farmers",
+    "fr": "Les agriculteurs"
+  },
+  "начинают": {
+    "en": "begin",
+    "fr": "commencent"
+  },
+  "сеять": {
+    "en": "to sow",
+    "fr": "semer"
+  },
+  "зерно": {
+    "en": "grain",
+    "fr": "le grain"
+  },
+  "землю": {
+    "en": "the land",
+    "fr": "la terre"
+  },
+  "урожаю": {
+    "en": "harvest",
+    "fr": "recolte"
+  },
+  "время": {
+    "en": "time",
+    "fr": "temps"
+  },
+  "надежды": {
+    "en": "hope",
+    "fr": "espoir"
+  },
+  "новых": {
+    "en": "new",
+    "fr": "nouveaux"
+  },
+  "начал": {
+    "en": "beginnings",
+    "fr": "commencements"
+  },
+  "Студенты": {
+    "en": "Students",
+    "fr": "Les etudiants"
+  },
+  "готовятся": {
+    "en": "prepare",
+    "fr": "se preparent"
+  },
+  "экзаменам": {
+    "en": "exams",
+    "fr": "examens"
+  },
+  "влюблённые": {
+    "en": "couples in love",
+    "fr": "les amoureux"
+  },
+  "гуляют": {
+    "en": "stroll",
+    "fr": "se promenent"
+  },
+  "набережным": {
+    "en": "embankments",
+    "fr": "quais"
+  },
+  "художники": {
+    "en": "artists",
+    "fr": "les artistes"
+  },
+  "пленэр": {
+    "en": "open-air painting",
+    "fr": "plein air"
+  },
+  "Воздух": {
+    "en": "The air",
+    "fr": "L'air"
+  },
+  "пахнет": {
+    "en": "smells of",
+    "fr": "sent"
+  },
+  "свежестью": {
+    "en": "freshness",
+    "fr": "la fraicheur"
+  },
+  "цветением": {
+    "en": "blossoming",
+    "fr": "la floraison"
+  },
+  "радость": {
+    "en": "joy",
+    "fr": "joie"
+  },
+  "ощущение": {
+    "en": "feeling",
+    "fr": "sentiment"
+  },
+  "хорошее": {
+    "en": "good",
+    "fr": "de beau"
+  }
+}

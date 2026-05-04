@@ -1,0 +1,58 @@
+{
+  "природа": {
+    "en": "Noun, feminine, nominative case. Subject of the sentence.",
+    "fr": "Nom feminin, cas nominatif. Sujet de la phrase."
+  },
+  "просыпается": {
+    "en": "Reflexive verb, 3rd person singular, present tense. From 'просыпаться' (to wake up).",
+    "fr": "Verbe reflechi, 3e personne du singulier, present. De 'просыпаться' (se reveiller)."
+  },
+  "Деревья": {
+    "en": "Noun, neuter, plural, nominative. 'дерево' (tree) — plural form 'деревья'.",
+    "fr": "Nom neutre, pluriel, nominatif. 'дерево' (arbre) — forme plurielle 'деревья'."
+  },
+  "листьями": {
+    "en": "Noun, neuter, plural, instrumental case. 'лист' (leaf) — instrumental plural.",
+    "fr": "Nom neutre, pluriel, cas instrumental. 'лист' (feuille) — pluriel instrumental."
+  },
+  "Птицы": {
+    "en": "Noun, feminine, plural, nominative. 'птица' (bird) — plural form.",
+    "fr": "Nom feminin, pluriel, nominatif. 'птица' (oiseau) — forme plurielle."
+  },
+  "возвращаются": {
+    "en": "Reflexive verb, 3rd person plural, present tense. From 'возвращаться' (to return).",
+    "fr": "Verbe reflechi, 3e personne du pluriel, present. De 'возвращаться' (revenir)."
+  },
+  "Солнце": {
+    "en": "Noun, neuter, nominative singular. 'The sun'. Stays unchanged in many phrases.",
+    "fr": "Nom neutre, nominatif singulier. 'Le soleil'. Reste invariable dans certaines expressions."
+  },
+  "Фермеры": {
+    "en": "Noun, masculine, plural, nominative. Borrowed from English 'farmer'.",
+    "fr": "Nom masculin, pluriel, nominatif. Emprunte a l'anglais 'farmer'."
+  },
+  "надежды": {
+    "en": "Noun, feminine, genitive singular. 'надежда' (hope) — genitive after 'время'.",
+    "fr": "Nom feminin, genitif singulier. 'надежда' (espoir) — genitif apres 'время'."
+  },
+  "Студенты": {
+    "en": "Noun, masculine, plural, nominative. From Latin 'studens' (one who studies).",
+    "fr": "Nom masculin, pluriel, nominatif. Du latin 'studens' (celui qui etudie)."
+  },
+  "влюблённые": {
+    "en": "Adjective used as a noun, plural nominative. Means 'people in love'.",
+    "fr": "Adjectif employe comme nom, pluriel nominatif. Signifie 'les amoureux'."
+  },
+  "художники": {
+    "en": "Noun, masculine, plural, nominative. 'художник' (artist/painter) — plural.",
+    "fr": "Nom masculin, pluriel, nominatif. 'художник' (artiste/peintre) — pluriel."
+  },
+  "Воздух": {
+    "en": "Noun, masculine, nominative singular. Often used in nature and weather descriptions.",
+    "fr": "Nom masculin, nominatif singulier. Utilise frequemment dans les descriptions de la nature."
+  },
+  "радость": {
+    "en": "Noun, feminine, accusative singular. Abstract noun meaning 'joy'.",
+    "fr": "Nom feminin, accusatif singulier. Nom abstrait signifiant 'joie'."
+  }
+}
