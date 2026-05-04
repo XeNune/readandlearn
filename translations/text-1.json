@@ -1,292 +1,898 @@
 {
-  "en": "In spring, nature awakens after a long winter sleep. Trees become covered with tender green leaves, and fields bloom with bright flowers. Birds return from warm countries and fill the forests with their songs. The sun shines brighter, days grow longer, and nights grow shorter.\n\nIn cities, people go for walks, children play in parks, and elderly people sit on benches warming themselves in the sun. Markets fill with fresh vegetables and fruits. Farmers begin to sow grain and prepare the land for the new harvest.\n\nSpring is a time of hope and new beginnings. Students prepare for exams, couples stroll along embankments, and artists go out to paint in the open air. The air smells of freshness and blossoming. Each day brings joy and a feeling that something good awaits ahead.",
-  "fr": "Au printemps, la nature se reveille apres un long sommeil hivernal. Les arbres se couvrent de tendres feuilles vertes et les champs s'epanouissent de fleurs colorees. Les oiseaux reviennent des pays chauds et remplissent les forets de leurs chants. Le soleil brille de plus en plus fort, les jours s'allongent et les nuits raccourcissent.\n\nDans les villes, les gens se promenent, les enfants jouent dans les parcs et les personnes agees s'assoient sur des bancs pour se rechauffer au soleil. Les marches se remplissent de legumes et de fruits frais. Les agriculteurs commencent a semer le grain et a preparer la terre pour la nouvelle recolte.\n\nLe printemps est un temps d'espoir et de nouveaux commencements. Les etudiants se preparent aux examens, les amoureux se promenent le long des quais, et les artistes sortent peindre en plein air. L'air sent la fraicheur et la floraison. Chaque jour apporte de la joie et le sentiment que quelque chose de beau attend devant.",
-  "Весной": {
-    "en": "In spring",
-    "fr": "Au printemps"
+  "а": {
+    "en": "but / and",
+    "de": "aber / und"
   },
-  "природа": {
-    "en": "nature",
-    "fr": "la nature"
+  "А": {
+    "en": "but / and",
+    "de": "aber / und"
   },
-  "просыпается": {
-    "en": "awakens",
-    "fr": "se reveille"
+  "аркад": {
+    "en": "arcades",
+    "de": "Arkaden"
   },
-  "после": {
-    "en": "after",
-    "fr": "apres"
+  "Аркад": {
+    "en": "arcades",
+    "de": "Arkaden"
   },
-  "долгого": {
-    "en": "long",
-    "fr": "long"
+  "баланс": {
+    "en": "balance",
+    "de": "Balance"
   },
-  "зимнего": {
-    "en": "winter",
-    "fr": "hivernal"
+  "Баланс": {
+    "en": "balance",
+    "de": "Balance"
   },
-  "сна": {
-    "en": "sleep",
-    "fr": "sommeil"
+  "болельщиками": {
+    "en": "fans / supporters",
+    "de": "Fans / Zuschauern"
   },
-  "Деревья": {
-    "en": "Trees",
-    "fr": "Les arbres"
+  "Болельщиками": {
+    "en": "fans / supporters",
+    "de": "Fans / Zuschauern"
   },
-  "покрываются": {
-    "en": "become covered",
-    "fr": "se couvrent"
+  "быть": {
+    "en": "to be",
+    "de": "sein"
   },
-  "нежными": {
-    "en": "tender",
-    "fr": "tendres"
+  "Быть": {
+    "en": "to be",
+    "de": "sein"
   },
-  "зелёными": {
-    "en": "green",
-    "fr": "vertes"
+  "в": {
+    "en": "in / at",
+    "de": "in / bei"
   },
-  "листьями": {
-    "en": "leaves",
-    "fr": "feuilles"
+  "В": {
+    "en": "in / at",
+    "de": "in / bei"
   },
-  "поля": {
-    "en": "fields",
-    "fr": "les champs"
+  "важно": {
+    "en": "it is important",
+    "de": "es ist wichtig"
   },
-  "расцветают": {
-    "en": "bloom",
-    "fr": "s'epanouissent"
+  "Важно": {
+    "en": "it is important",
+    "de": "es ist wichtig"
   },
-  "яркими": {
-    "en": "bright",
-    "fr": "colorees"
+  "воспитывают": {
+    "en": "develop / foster",
+    "de": "fördern / erziehen"
   },
-  "цветами": {
-    "en": "flowers",
-    "fr": "fleurs"
+  "Воспитывают": {
+    "en": "develop / foster",
+    "de": "fördern / erziehen"
   },
-  "Птицы": {
-    "en": "Birds",
-    "fr": "Les oiseaux"
+  "всему": {
+    "en": "all / entire (dative)",
+    "de": "ganzen / allem"
   },
-  "возвращаются": {
-    "en": "return",
-    "fr": "reviennent"
+  "Всему": {
+    "en": "all / entire (dative)",
+    "de": "ganzen / allem"
   },
-  "тёплых": {
-    "en": "warm",
-    "fr": "chauds"
+  "головоломки": {
+    "en": "puzzles",
+    "de": "Rätsel"
   },
-  "стран": {
-    "en": "countries",
-    "fr": "pays"
+  "Головоломки": {
+    "en": "puzzles",
+    "de": "Rätsel"
   },
-  "наполняют": {
-    "en": "fill",
-    "fr": "remplissent"
+  "давно": {
+    "en": "long ago / for a long time",
+    "de": "schon lange"
   },
-  "леса": {
-    "en": "forests",
-    "fr": "forets"
+  "Давно": {
+    "en": "long ago / for a long time",
+    "de": "schon lange"
   },
-  "своими": {
-    "en": "their",
-    "fr": "leurs"
+  "далеко": {
+    "en": "far / far ahead",
+    "de": "weit / weit voraus"
   },
-  "песнями": {
-    "en": "songs",
-    "fr": "chants"
+  "Далеко": {
+    "en": "far / far ahead",
+    "de": "weit / weit voraus"
   },
-  "Солнце": {
-    "en": "The sun",
-    "fr": "Le soleil"
+  "для": {
+    "en": "for",
+    "de": "für"
   },
-  "светит": {
-    "en": "shines",
-    "fr": "brille"
+  "Для": {
+    "en": "for",
+    "de": "für"
   },
-  "ярче": {
-    "en": "brighter",
-    "fr": "plus fort"
+  "до": {
+    "en": "up to / before",
+    "de": "bis / vor"
   },
-  "дни": {
-    "en": "days",
-    "fr": "les jours"
+  "До": {
+    "en": "up to / before",
+    "de": "bis / vor"
   },
-  "становятся": {
-    "en": "become",
-    "fr": "deviennent"
+  "достойный": {
+    "en": "worthy / deserving",
+    "de": "würdig / verdient"
   },
-  "длиннее": {
-    "en": "longer",
-    "fr": "plus longs"
+  "Достойный": {
+    "en": "worthy / deserving",
+    "de": "würdig / verdient"
   },
-  "ночи": {
-    "en": "nights",
-    "fr": "les nuits"
+  "же": {
+    "en": "just (emphasis particle)",
+    "de": "genauso / auch"
   },
-  "короче": {
-    "en": "shorter",
-    "fr": "plus courtes"
+  "Же": {
+    "en": "just (emphasis particle)",
+    "de": "genauso / auch"
   },
-  "городах": {
-    "en": "cities",
-    "fr": "villes"
+  "жизни": {
+    "en": "life (genitive)",
+    "de": "Leben"
+  },
+  "Жизни": {
+    "en": "life (genitive)",
+    "de": "Leben"
+  },
+  "заполненными": {
+    "en": "filled / packed",
+    "de": "gefüllten / vollen"
+  },
+  "Заполненными": {
+    "en": "filled / packed",
+    "de": "gefüllten / vollen"
+  },
+  "здоровью": {
+    "en": "health (dative)",
+    "de": "Gesundheit"
+  },
+  "Здоровью": {
+    "en": "health (dative)",
+    "de": "Gesundheit"
+  },
+  "и": {
+    "en": "and",
+    "de": "und"
+  },
+  "И": {
+    "en": "and",
+    "de": "und"
+  },
+  "игроками": {
+    "en": "players (instrumental)",
+    "de": "Spielern"
+  },
+  "Игроками": {
+    "en": "players (instrumental)",
+    "de": "Spielern"
+  },
+  "игры": {
+    "en": "games",
+    "de": "Spiele"
+  },
+  "Игры": {
+    "en": "games",
+    "de": "Spiele"
+  },
+  "индустрия": {
+    "en": "industry",
+    "de": "Industrie"
+  },
+  "Индустрия": {
+    "en": "industry",
+    "de": "Industrie"
+  },
+  "инструмент": {
+    "en": "tool / instrument",
+    "de": "Werkzeug / Instrument"
+  },
+  "Инструмент": {
+    "en": "tool / instrument",
+    "de": "Werkzeug / Instrument"
+  },
+  "как": {
+    "en": "as / how",
+    "de": "wie / als"
+  },
+  "Как": {
+    "en": "as / how",
+    "de": "wie / als"
+  },
+  "карьере": {
+    "en": "career (prepositional)",
+    "de": "Karriere"
+  },
+  "Карьере": {
+    "en": "career (prepositional)",
+    "de": "Karriere"
+  },
+  "киберспорт": {
+    "en": "esports / cybersport",
+    "de": "E-Sport"
+  },
+  "Киберспорт": {
+    "en": "esports / cybersport",
+    "de": "E-Sport"
+  },
+  "коллективе": {
+    "en": "team / collective",
+    "de": "Team / Kollektiv"
+  },
+  "Коллективе": {
+    "en": "team / collective",
+    "de": "Team / Kollektiv"
+  },
+  "командные": {
+    "en": "team (adj.)",
+    "de": "Team- / gemeinsam"
+  },
+  "Командные": {
+    "en": "team (adj.)",
+    "de": "Team- / gemeinsam"
+  },
+  "коммуникации": {
+    "en": "communication",
+    "de": "Kommunikation"
+  },
+  "Коммуникации": {
+    "en": "communication",
+    "de": "Kommunikation"
+  },
+  "компьютерные": {
+    "en": "computer (adj.)",
+    "de": "Computer- / digitale"
+  },
+  "Компьютерные": {
+    "en": "computer (adj.)",
+    "de": "Computer- / digitale"
+  },
+  "контента": {
+    "en": "content (genitive)",
+    "de": "Inhalts"
+  },
+  "Контента": {
+    "en": "content (genitive)",
+    "de": "Inhalts"
+  },
+  "конечно": {
+    "en": "of course",
+    "de": "natürlich / selbstverständlich"
+  },
+  "Конечно": {
+    "en": "of course",
+    "de": "natürlich / selbstverständlich"
+  },
+  "культуру": {
+    "en": "culture (accusative)",
+    "de": "Kultur"
+  },
+  "Культуру": {
+    "en": "culture (accusative)",
+    "de": "Kultur"
+  },
+  "людей": {
+    "en": "people (genitive)",
+    "de": "Menschen"
+  },
+  "Людей": {
+    "en": "people (genitive)",
+    "de": "Menschen"
   },
   "люди": {
     "en": "people",
-    "fr": "les gens"
+    "de": "Menschen"
   },
-  "выходят": {
-    "en": "go out",
-    "fr": "sortent"
+  "Люди": {
+    "en": "people",
+    "de": "Menschen"
   },
-  "прогулки": {
-    "en": "walks",
-    "fr": "promenades"
+  "масштабных": {
+    "en": "large-scale / vast",
+    "de": "umfangreichen / riesigen"
   },
-  "дети": {
-    "en": "children",
-    "fr": "les enfants"
+  "Масштабных": {
+    "en": "large-scale / vast",
+    "de": "umfangreichen / riesigen"
   },
-  "играют": {
-    "en": "play",
-    "fr": "jouent"
+  "мечтают": {
+    "en": "dream / aspire",
+    "de": "träumen"
   },
-  "парках": {
-    "en": "parks",
-    "fr": "parcs"
+  "Мечтают": {
+    "en": "dream / aspire",
+    "de": "träumen"
   },
-  "пожилые": {
-    "en": "elderly",
-    "fr": "agees"
+  "мечтали": {
+    "en": "dreamed (past tense)",
+    "de": "träumten"
   },
-  "сидят": {
-    "en": "sit",
-    "fr": "s'assoient"
+  "Мечтали": {
+    "en": "dreamed (past tense)",
+    "de": "träumten"
   },
-  "скамейках": {
-    "en": "benches",
-    "fr": "bancs"
+  "миллионными": {
+    "en": "worth millions (adj.)",
+    "de": "millionenschweren"
   },
-  "греются": {
-    "en": "warm themselves",
-    "fr": "se rechauffent"
+  "Миллионными": {
+    "en": "worth millions (adj.)",
+    "de": "millionenschweren"
   },
-  "Рынки": {
-    "en": "Markets",
-    "fr": "Les marches"
+  "миллионы": {
+    "en": "millions",
+    "de": "Millionen"
   },
-  "свежими": {
-    "en": "fresh",
-    "fr": "frais"
+  "Миллионы": {
+    "en": "millions",
+    "de": "Millionen"
   },
-  "овощами": {
-    "en": "vegetables",
-    "fr": "legumes"
+  "миру": {
+    "en": "world (dative)",
+    "de": "Welt"
   },
-  "фруктами": {
-    "en": "fruits",
-    "fr": "fruits"
+  "Миру": {
+    "en": "world (dative)",
+    "de": "Welt"
   },
-  "Фермеры": {
-    "en": "Farmers",
-    "fr": "Les agriculteurs"
+  "мозг": {
+    "en": "brain",
+    "de": "Gehirn"
   },
-  "начинают": {
-    "en": "begin",
-    "fr": "commencent"
+  "Мозг": {
+    "en": "brain",
+    "de": "Gehirn"
   },
-  "сеять": {
-    "en": "to sow",
-    "fr": "semer"
+  "молодые": {
+    "en": "young",
+    "de": "junge"
   },
-  "зерно": {
-    "en": "grain",
-    "fr": "le grain"
+  "Молодые": {
+    "en": "young",
+    "de": "junge"
   },
-  "землю": {
-    "en": "the land",
-    "fr": "la terre"
+  "может": {
+    "en": "can / may",
+    "de": "kann"
   },
-  "урожаю": {
-    "en": "harvest",
-    "fr": "recolte"
+  "Может": {
+    "en": "can / may",
+    "de": "kann"
   },
-  "время": {
-    "en": "time",
-    "fr": "temps"
+  "мощный": {
+    "en": "powerful",
+    "de": "mächtig / stark"
   },
-  "надежды": {
-    "en": "hope",
-    "fr": "espoir"
+  "Мощный": {
+    "en": "powerful",
+    "de": "mächtig / stark"
   },
-  "новых": {
-    "en": "new",
-    "fr": "nouveaux"
+  "мышление": {
+    "en": "thinking / reasoning",
+    "de": "Denken / Denkvermögen"
   },
-  "начал": {
-    "en": "beginnings",
-    "fr": "commencements"
+  "Мышление": {
+    "en": "thinking / reasoning",
+    "de": "Denken / Denkvermögen"
   },
-  "Студенты": {
-    "en": "Students",
-    "fr": "Les etudiants"
+  "музыканта": {
+    "en": "musician (genitive)",
+    "de": "Musikers"
   },
-  "готовятся": {
-    "en": "prepare",
-    "fr": "se preparent"
+  "Музыканта": {
+    "en": "musician (genitive)",
+    "de": "Musikers"
   },
-  "экзаменам": {
-    "en": "exams",
-    "fr": "examens"
+  "навредить": {
+    "en": "to harm / to damage",
+    "de": "schaden / schädigen"
   },
-  "влюблённые": {
-    "en": "couples in love",
-    "fr": "les amoureux"
+  "Навредить": {
+    "en": "to harm / to damage",
+    "de": "schaden / schädigen"
   },
-  "гуляют": {
-    "en": "stroll",
-    "fr": "se promenent"
+  "навыки": {
+    "en": "skills",
+    "de": "Fähigkeiten / Fertigkeiten"
   },
-  "набережным": {
-    "en": "embankments",
-    "fr": "quais"
+  "Навыки": {
+    "en": "skills",
+    "de": "Fähigkeiten / Fertigkeiten"
   },
-  "художники": {
-    "en": "artists",
-    "fr": "les artistes"
+  "невероятно": {
+    "en": "incredibly",
+    "de": "unglaublich"
   },
-  "пленэр": {
-    "en": "open-air painting",
-    "fr": "plein air"
+  "Невероятно": {
+    "en": "incredibly",
+    "de": "unglaublich"
   },
-  "Воздух": {
-    "en": "The air",
-    "fr": "L'air"
+  "о": {
+    "en": "about / of",
+    "de": "über / von"
   },
-  "пахнет": {
-    "en": "smells of",
-    "fr": "sent"
+  "О": {
+    "en": "about / of",
+    "de": "über / von"
   },
-  "свежестью": {
-    "en": "freshness",
-    "fr": "la fraicheur"
+  "объединяющую": {
+    "en": "uniting / bringing together",
+    "de": "vereinende / verbindende"
   },
-  "цветением": {
-    "en": "blossoming",
-    "fr": "la floraison"
+  "Объединяющую": {
+    "en": "uniting / bringing together",
+    "de": "vereinende / verbindende"
   },
-  "радость": {
-    "en": "joy",
-    "fr": "joie"
+  "они": {
+    "en": "they",
+    "de": "sie"
   },
-  "ощущение": {
-    "en": "feeling",
-    "fr": "sentiment"
+  "Они": {
+    "en": "they",
+    "de": "sie"
   },
-  "хорошее": {
-    "en": "good",
-    "fr": "de beau"
+  "от": {
+    "en": "from",
+    "de": "von / aus"
+  },
+  "От": {
+    "en": "from",
+    "de": "von / aus"
+  },
+  "отдыха": {
+    "en": "rest / leisure (genitive)",
+    "de": "Erholung / Freizeit"
+  },
+  "Отдыха": {
+    "en": "rest / leisure (genitive)",
+    "de": "Erholung / Freizeit"
+  },
+  "отношения": {
+    "en": "attitude / relationship",
+    "de": "Einstellung / Beziehung"
+  },
+  "Отношения": {
+    "en": "attitude / relationship",
+    "de": "Einstellung / Beziehung"
+  },
+  "перестали": {
+    "en": "stopped / ceased",
+    "de": "haben aufgehört"
+  },
+  "Перестали": {
+    "en": "stopped / ceased",
+    "de": "haben aufgehört"
+  },
+  "планированию": {
+    "en": "planning (dative)",
+    "de": "Planung"
+  },
+  "Планированию": {
+    "en": "planning (dative)",
+    "de": "Planung"
+  },
+  "подходе": {
+    "en": "approach (prepositional)",
+    "de": "Ansatz / Herangehensweise"
+  },
+  "Подходе": {
+    "en": "approach (prepositional)",
+    "de": "Ansatz / Herangehensweise"
+  },
+  "полноценный": {
+    "en": "full-fledged / proper",
+    "de": "vollwertig / echtes"
+  },
+  "Полноценный": {
+    "en": "full-fledged / proper",
+    "de": "vollwertig / echtes"
+  },
+  "при": {
+    "en": "with / in the case of",
+    "de": "bei / wenn"
+  },
+  "При": {
+    "en": "with / in the case of",
+    "de": "bei / wenn"
+  },
+  "принимать": {
+    "en": "to make / to take (decisions)",
+    "de": "treffen / fällen"
+  },
+  "Принимать": {
+    "en": "to make / to take (decisions)",
+    "de": "treffen / fällen"
+  },
+  "призовыми": {
+    "en": "prize (adj., instrumental)",
+    "de": "Preis- / Gewinn-"
+  },
+  "Призовыми": {
+    "en": "prize (adj., instrumental)",
+    "de": "Preis- / Gewinn-"
+  },
+  "просто": {
+    "en": "simply / just",
+    "de": "einfach / nur"
+  },
+  "Просто": {
+    "en": "simply / just",
+    "de": "einfach / nur"
+  },
+  "профессиональными": {
+    "en": "professional (adj., instrumental)",
+    "de": "professionellen"
+  },
+  "Профессиональными": {
+    "en": "professional (adj., instrumental)",
+    "de": "professionellen"
+  },
+  "профессиональный": {
+    "en": "professional",
+    "de": "professioneller"
+  },
+  "Профессиональный": {
+    "en": "professional",
+    "de": "professioneller"
+  },
+  "развивают": {
+    "en": "develop / improve",
+    "de": "entwickeln / fördern"
+  },
+  "Развивают": {
+    "en": "develop / improve",
+    "de": "entwickeln / fördern"
+  },
+  "развития": {
+    "en": "development (genitive)",
+    "de": "Entwicklung"
+  },
+  "Развития": {
+    "en": "development (genitive)",
+    "de": "Entwicklung"
+  },
+  "разумном": {
+    "en": "reasonable / sensible",
+    "de": "vernünftigen / bedachten"
+  },
+  "Разумном": {
+    "en": "reasonable / sensible",
+    "de": "vernünftigen / bedachten"
+  },
+  "раньше": {
+    "en": "before / earlier",
+    "de": "früher / vorher"
+  },
+  "Раньше": {
+    "en": "before / earlier",
+    "de": "früher / vorher"
+  },
+  "реакцию": {
+    "en": "reaction / reflexes (accusative)",
+    "de": "Reaktion / Reaktionsvermögen"
+  },
+  "Реакцию": {
+    "en": "reaction / reflexes (accusative)",
+    "de": "Reaktion / Reaktionsvermögen"
+  },
+  "решения": {
+    "en": "decisions (accusative plural)",
+    "de": "Entscheidungen"
+  },
+  "Решения": {
+    "en": "decisions (accusative plural)",
+    "de": "Entscheidungen"
+  },
+  "ролевых": {
+    "en": "role-playing (adj., genitive pl.)",
+    "de": "Rollen- / Rollenspiel-"
+  },
+  "Ролевых": {
+    "en": "role-playing (adj., genitive pl.)",
+    "de": "Rollen- / Rollenspiel-"
+  },
+  "с": {
+    "en": "with",
+    "de": "mit"
+  },
+  "С": {
+    "en": "with",
+    "de": "mit"
+  },
+  "серьёзного": {
+    "en": "serious (genitive)",
+    "de": "ernsthaften"
+  },
+  "Серьёзного": {
+    "en": "serious (genitive)",
+    "de": "ernsthaften"
+  },
+  "сегодня": {
+    "en": "today",
+    "de": "heute"
+  },
+  "Сегодня": {
+    "en": "today",
+    "de": "heute"
+  },
+  "слаженной": {
+    "en": "coordinated / well-organised",
+    "de": "koordinierten / eingespielten"
+  },
+  "Слаженной": {
+    "en": "coordinated / well-organised",
+    "de": "koordinierten / eingespielten"
+  },
+  "социальной": {
+    "en": "social (adj., genitive)",
+    "de": "sozialen"
+  },
+  "Социальной": {
+    "en": "social (adj., genitive)",
+    "de": "sozialen"
+  },
+  "соблюдать": {
+    "en": "to maintain / to observe",
+    "de": "einhalten / wahren"
+  },
+  "Соблюдать": {
+    "en": "to maintain / to observe",
+    "de": "einhalten / wahren"
+  },
+  "способность": {
+    "en": "ability / capacity",
+    "de": "Fähigkeit"
+  },
+  "Способность": {
+    "en": "ability / capacity",
+    "de": "Fähigkeit"
+  },
+  "спорт": {
+    "en": "sport",
+    "de": "Sport"
+  },
+  "Спорт": {
+    "en": "sport",
+    "de": "Sport"
+  },
+  "стадионами": {
+    "en": "stadiums (instrumental pl.)",
+    "de": "Stadien"
+  },
+  "Стадионами": {
+    "en": "stadiums (instrumental pl.)",
+    "de": "Stadien"
+  },
+  "стать": {
+    "en": "to become",
+    "de": "werden"
+  },
+  "Стать": {
+    "en": "to become",
+    "de": "werden"
+  },
+  "стратегии": {
+    "en": "strategy games / strategies",
+    "de": "Strategiespiele / Strategien"
+  },
+  "Стратегии": {
+    "en": "strategy games / strategies",
+    "de": "Strategiespiele / Strategien"
+  },
+  "стресса": {
+    "en": "stress (genitive)",
+    "de": "Stress"
+  },
+  "Стресса": {
+    "en": "stress (genitive)",
+    "de": "Stress"
+  },
+  "так": {
+    "en": "so / just as",
+    "de": "so / genauso"
+  },
+  "Так": {
+    "en": "so / just as",
+    "de": "so / genauso"
+  },
+  "творчества": {
+    "en": "creativity (genitive)",
+    "de": "Kreativität"
+  },
+  "Творчества": {
+    "en": "creativity (genitive)",
+    "de": "Kreativität"
+  },
+  "тренируют": {
+    "en": "train / exercise",
+    "de": "trainieren"
+  },
+  "Тренируют": {
+    "en": "train / exercise",
+    "de": "trainieren"
+  },
+  "турнирами": {
+    "en": "tournaments (instrumental)",
+    "de": "Turnieren"
+  },
+  "Турнирами": {
+    "en": "tournaments (instrumental)",
+    "de": "Turnieren"
+  },
+  "тысячами": {
+    "en": "thousands (instrumental)",
+    "de": "Tausenden"
+  },
+  "Тысячами": {
+    "en": "thousands (instrumental)",
+    "de": "Tausenden"
+  },
+  "увлечение": {
+    "en": "passion / obsession / hobby",
+    "de": "Leidenschaft / Sucht"
+  },
+  "Увлечение": {
+    "en": "passion / obsession / hobby",
+    "de": "Leidenschaft / Sucht"
+  },
+  "уважения": {
+    "en": "respect (genitive)",
+    "de": "Respekt / Achtung"
+  },
+  "Уважения": {
+    "en": "respect (genitive)",
+    "de": "Respekt / Achtung"
+  },
+  "учат": {
+    "en": "teach / train",
+    "de": "lehren / vermitteln"
+  },
+  "Учат": {
+    "en": "teach / train",
+    "de": "lehren / vermitteln"
+  },
+  "условиях": {
+    "en": "conditions / circumstances",
+    "de": "Bedingungen / Umständen"
+  },
+  "Условиях": {
+    "en": "conditions / circumstances",
+    "de": "Bedingungen / Umständen"
+  },
+  "футболиста": {
+    "en": "footballer / soccer player (genitive)",
+    "de": "Fußballers"
+  },
+  "Футболиста": {
+    "en": "footballer / soccer player (genitive)",
+    "de": "Fußballers"
+  },
+  "фондами": {
+    "en": "prize pools / funds (instrumental)",
+    "de": "Preisgeldern / Fonds"
+  },
+  "Фондами": {
+    "en": "prize pools / funds (instrumental)",
+    "de": "Preisgeldern / Fonds"
+  },
+  "часов": {
+    "en": "hours (genitive pl.)",
+    "de": "Stunden"
+  },
+  "Часов": {
+    "en": "hours (genitive pl.)",
+    "de": "Stunden"
+  },
+  "целую": {
+    "en": "whole / entire (accusative)",
+    "de": "ganze"
+  },
+  "Целую": {
+    "en": "whole / entire (accusative)",
+    "de": "ganze"
+  },
+  "чрезмерное": {
+    "en": "excessive / extreme",
+    "de": "übermäßige / exzessive"
+  },
+  "Чрезмерное": {
+    "en": "excessive / extreme",
+    "de": "übermäßige / exzessive"
+  },
+  "шагнула": {
+    "en": "stepped forward / advanced (past f.)",
+    "de": "hat einen großen Schritt gemacht"
+  },
+  "Шагнула": {
+    "en": "stepped forward / advanced (past f.)",
+    "de": "hat einen großen Schritt gemacht"
+  },
+  "шутеры": {
+    "en": "shooter games",
+    "de": "Shooter-Spiele"
+  },
+  "Шутеры": {
+    "en": "shooter games",
+    "de": "Shooter-Spiele"
+  },
+  "это": {
+    "en": "this / it is",
+    "de": "das / es ist"
+  },
+  "Это": {
+    "en": "this / it is",
+    "de": "das / es ist"
+  },
+  "но": {
+    "en": "but",
+    "de": "aber"
+  },
+  "Но": {
+    "en": "but",
+    "de": "aber"
+  },
+  "по": {
+    "en": "across / throughout",
+    "de": "über / durch"
+  },
+  "По": {
+    "en": "across / throughout",
+    "de": "über / durch"
+  },
+  "превратились": {
+    "en": "turned into / became",
+    "de": "verwandelten sich in"
+  },
+  "Превратились": {
+    "en": "turned into / became",
+    "de": "verwandelten sich in"
+  },
+  "миров": {
+    "en": "worlds (genitive pl.)",
+    "de": "Welten"
+  },
+  "Миров": {
+    "en": "worlds (genitive pl.)",
+    "de": "Welten"
+  },
+  "или": {
+    "en": "or",
+    "de": "oder"
+  },
+  "Или": {
+    "en": "or",
+    "de": "oder"
+  },
+  "логическое": {
+    "en": "logical",
+    "de": "logisches"
+  },
+  "Логическое": {
+    "en": "logical",
+    "de": "logisches"
+  },
+  "простых": {
+    "en": "simple / basic (genitive pl.)",
+    "de": "einfachen"
+  },
+  "Простых": {
+    "en": "simple / basic (genitive pl.)",
+    "de": "einfachen"
+  },
+  "работы": {
+    "en": "work / teamwork (genitive)",
+    "de": "Arbeit / Teamarbeit"
+  },
+  "Работы": {
+    "en": "work / teamwork (genitive)",
+    "de": "Arbeit / Teamarbeit"
+  },
+  "развлечением": {
+    "en": "entertainment / pastime (instrumental)",
+    "de": "Unterhaltung / Zeitvertreib"
+  },
+  "Развлечением": {
+    "en": "entertainment / pastime (instrumental)",
+    "de": "Unterhaltung / Zeitvertreib"
   }
 }
