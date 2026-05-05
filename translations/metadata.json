@@ -1,7 +1,42 @@
 {
   "1": {
-    "title": "Компьютерные игры",
-    "wordCount": 110,
-    "languages": ["English", "German"]
+    "title": "Заявление Ларисы Долиной на концерте",
+    "wordCount": 68,
+    "languages": ["English", "German", "French"]
+  },
+  "2": {
+    "title": "Поведение россиян после праздников",
+    "wordCount": 40,
+    "languages": ["English", "German", "French"]
+  },
+  "3": {
+    "title": "Лев и собачка",
+    "wordCount": 156,
+    "languages": ["English", "German", "French"]
+  },
+  "4": {
+    "title": "Когнитивные изменения у молодых людей",
+    "wordCount": 60,
+    "languages": ["English", "German", "French"]
+  },
+  "5": {
+    "title": "Один день у Кремля",
+    "wordCount": 68,
+    "languages": ["English", "German", "French"]
+  },
+  "6": {
+    "title": "Польза чтения и саморазвитие",
+    "wordCount": 84,
+    "languages": ["English", "German", "French"]
+  },
+  "7": {
+    "title": "Кот-«врач» Барсик в ветклинике",
+    "wordCount": 39,
+    "languages": ["English", "German", "French"]
+  },
+  "8": {
+    "title": "Отрывок из пьесы А. П. Чехова «Чайка»",
+    "wordCount": 63,
+    "languages": ["English", "German", "French"]
   }
 }

@@ -1,0 +1,307 @@
+{
+  "Один": {
+    "en": "numeral, nominative masculine singular",
+    "de": "Numerale, Nominativ maskulin Singular",
+    "fr": "numéral, masculin singulier"
+  },
+  "день": {
+    "en": "noun, nominative singular masculine",
+    "de": "Substantiv, Nominativ Singular maskulin",
+    "fr": "nom, masculin singulier"
+  },
+  "у": {
+    "en": "preposition",
+    "de": "Präposition",
+    "fr": "préposition"
+  },
+  "Кремля": {
+    "en": "proper noun, genitive singular",
+    "de": "Eigenname, Genitiv Singular",
+    "fr": "nom propre, génitif singulier"
+  },
+  "Когда": {
+    "en": "conjunction",
+    "de": "Konjunktion",
+    "fr": "conjonction"
+  },
+  "я": {
+    "en": "pronoun, nominative singular",
+    "de": "Pronomen, Nominativ Singular",
+    "fr": "pronom, nominatif singulier"
+  },
+  "впервые": {
+    "en": "adverb",
+    "de": "Adverb",
+    "fr": "adverbe"
+  },
+  "оказался": {
+    "en": "verb, past tense, masculine singular",
+    "de": "Verb, Vergangenheit, maskulin Singular",
+    "fr": "verbe, passé, masculin singulier"
+  },
+  "стен": {
+    "en": "noun, genitive plural",
+    "de": "Substantiv, Genitiv Plural",
+    "fr": "nom, génitif pluriel"
+  },
+  "мне": {
+    "en": "pronoun, dative singular",
+    "de": "Pronomen, Dativ Singular",
+    "fr": "pronom, datif singulier"
+  },
+  "показалось": {
+    "en": "verb, past tense, neuter singular",
+    "de": "Verb, Vergangenheit, Neutrum Singular",
+    "fr": "verbe, passé, neutre singulier"
+  },
+  "что": {
+    "en": "conjunction",
+    "de": "Konjunktion",
+    "fr": "conjonction"
+  },
+  "время": {
+    "en": "noun, nominative singular neuter",
+    "de": "Substantiv, Nominativ Singular Neutrum",
+    "fr": "nom, neutre singulier"
+  },
+  "остановилось": {
+    "en": "verb, past tense, neuter singular",
+    "de": "Verb, Vergangenheit, Neutrum Singular",
+    "fr": "verbe, passé, neutre singulier"
+  },
+  "Люди": {
+    "en": "noun, nominative plural",
+    "de": "Substantiv, Nominativ Plural",
+    "fr": "nom, pluriel"
+  },
+  "спешили": {
+    "en": "verb, past tense, plural",
+    "de": "Verb, Vergangenheit, Plural",
+    "fr": "verbe, passé, pluriel"
+  },
+  "автобусы": {
+    "en": "noun, nominative plural",
+    "de": "Substantiv, Nominativ Plural",
+    "fr": "nom, pluriel"
+  },
+  "проезжали": {
+    "en": "verb, past tense, plural",
+    "de": "Verb, Vergangenheit, Plural",
+    "fr": "verbe, passé, pluriel"
+  },
+  "а": {
+    "en": "conjunction",
+    "de": "Konjunktion",
+    "fr": "conjonction"
+  },
+  "старинные": {
+    "en": "adjective, nominative plural",
+    "de": "Adjektiv, Nominativ Plural",
+    "fr": "adjectif, pluriel"
+  },
+  "башни": {
+    "en": "noun, nominative plural",
+    "de": "Substantiv, Nominativ Plural",
+    "fr": "nom, pluriel"
+  },
+  "стояли": {
+    "en": "verb, past tense, plural",
+    "de": "Verb, Vergangenheit, Plural",
+    "fr": "verbe, passé, pluriel"
+  },
+  "спокойно": {
+    "en": "adverb",
+    "de": "Adverb",
+    "fr": "adverbe"
+  },
+  "как": {
+    "en": "conjunction",
+    "de": "Konjunktion",
+    "fr": "conjonction"
+  },
+  "и": {
+    "en": "conjunction",
+    "de": "Konjunktion",
+    "fr": "conjonction"
+  },
+  "сотни": {
+    "en": "noun, nominative plural",
+    "de": "Substantiv, Nominativ Plural",
+    "fr": "nom, pluriel"
+  },
+  "лет": {
+    "en": "noun, genitive plural",
+    "de": "Substantiv, Genitiv Plural",
+    "fr": "nom, pluriel"
+  },
+  "назад": {
+    "en": "adverb",
+    "de": "Adverb",
+    "fr": "adverbe"
+  },
+  "Моя": {
+    "en": "pronoun/adjective",
+    "de": "Pronomen",
+    "fr": "pronom"
+  },
+  "бабушка": {
+    "en": "noun, feminine singular",
+    "de": "Substantiv, feminin Singular",
+    "fr": "nom, féminin singulier"
+  },
+  "рассказывала": {
+    "en": "verb, past tense, feminine singular",
+    "de": "Verb, Vergangenheit, feminin Singular",
+    "fr": "verbe, passé, féminin singulier"
+  },
+  "она": {
+    "en": "pronoun",
+    "de": "Pronomen",
+    "fr": "pronom"
+  },
+  "тоже": {
+    "en": "adverb",
+    "de": "Adverb",
+    "fr": "adverbe"
+  },
+  "когда-то": {
+    "en": "adverb",
+    "de": "Adverb",
+    "fr": "adverbe"
+  },
+  "приходила": {
+    "en": "verb, past tense, feminine singular",
+    "de": "Verb, Vergangenheit, feminin Singular",
+    "fr": "verbe, passé, féminin singulier"
+  },
+  "сюда": {
+    "en": "adverb",
+    "de": "Adverb",
+    "fr": "adverbe"
+  },
+  "с": {
+    "en": "preposition",
+    "de": "Präposition",
+    "fr": "préposition"
+  },
+  "друзьями": {
+    "en": "noun, instrumental plural",
+    "de": "Substantiv, Instrumental Plural",
+    "fr": "nom, pluriel"
+  },
+  "после": {
+    "en": "preposition",
+    "de": "Präposition",
+    "fr": "préposition"
+  },
+  "института": {
+    "en": "noun, genitive singular",
+    "de": "Substantiv, Genitiv Singular",
+    "fr": "nom, génitif singulier"
+  },
+  "Глядя": {
+    "en": "gerund/adverbial participle",
+    "de": "Partizip",
+    "fr": "participe"
+  },
+  "на": {
+    "en": "preposition",
+    "de": "Präposition",
+    "fr": "préposition"
+  },
+  "Спасскую": {
+    "en": "proper adjective, accusative feminine",
+    "de": "Eigenadjektiv",
+    "fr": "adjectif propre"
+  },
+  "башню": {
+    "en": "noun, accusative singular feminine",
+    "de": "Substantiv, Akkusativ Singular feminin",
+    "fr": "nom, accusatif singulier"
+  },
+  "вдруг": {
+    "en": "adverb",
+    "de": "Adverb",
+    "fr": "adverbe"
+  },
+  "почувствовал": {
+    "en": "verb, past tense, masculine singular",
+    "de": "Verb, Vergangenheit, maskulin Singular",
+    "fr": "verbe, passé, masculin singulier"
+  },
+  "часть": {
+    "en": "noun, feminine singular",
+    "de": "Substantiv, feminin Singular",
+    "fr": "nom, féminin singulier"
+  },
+  "этой": {
+    "en": "pronoun/adjective",
+    "de": "Pronomen",
+    "fr": "pronom"
+  },
+  "большой": {
+    "en": "adjective, feminine singular",
+    "de": "Adjektiv, feminin Singular",
+    "fr": "adjectif, féminin singulier"
+  },
+  "истории": {
+    "en": "noun, genitive singular",
+    "de": "Substantiv, Genitiv Singular",
+    "fr": "nom, génitif singulier"
+  },
+  "Москва": {
+    "en": "proper noun",
+    "de": "Eigenname",
+    "fr": "nom propre"
+  },
+  "изменилась": {
+    "en": "verb, past tense, feminine singular",
+    "de": "Verb, Vergangenheit, feminin Singular",
+    "fr": "verbe, passé, féminin singulier"
+  },
+  "но": {
+    "en": "conjunction",
+    "de": "Konjunktion",
+    "fr": "conjonction"
+  },
+  "Кремль": {
+    "en": "proper noun",
+    "de": "Eigenname",
+    "fr": "nom propre"
+  },
+  "остаётся": {
+    "en": "verb, present tense, 3rd singular",
+    "de": "Verb, Präsens",
+    "fr": "verbe, présent"
+  },
+  "тем": {
+    "en": "pronoun",
+    "de": "Pronomen",
+    "fr": "pronom"
+  },
+  "же": {
+    "en": "particle",
+    "de": "Partikel",
+    "fr": "particule"
+  },
+  "каким": {
+    "en": "pronoun/adjective",
+    "de": "Pronomen",
+    "fr": "pronom"
+  },
+  "был": {
+    "en": "verb, past tense",
+    "de": "Verb, Vergangenheit",
+    "fr": "verbe, passé"
+  },
+  "для": {
+    "en": "preposition",
+    "de": "Präposition",
+    "fr": "préposition"
+  },
+  "её": {
+    "en": "pronoun",
+    "de": "Pronomen",
+    "fr": "pronom"
+  }
+}

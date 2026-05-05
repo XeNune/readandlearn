@@ -1,0 +1,375 @@
+{
+  "Отрывок": {
+    "en": "Excerpt",
+    "de": "Auszug",
+    "fr": "Extrait"
+  },
+  "из": {
+    "en": "from",
+    "de": "aus",
+    "fr": "de"
+  },
+  "пьесы": {
+    "en": "play",
+    "de": "Stück",
+    "fr": "pièce"
+  },
+  "А": {
+    "en": "A.",
+    "de": "A.",
+    "fr": "A."
+  },
+  "П": {
+    "en": "P.",
+    "de": "P.",
+    "fr": "P."
+  },
+  "Чехова": {
+    "en": "Chekhov",
+    "de": "Tschechow",
+    "fr": "Tchekhov"
+  },
+  "«Чайка»": {
+    "en": "\"The Seagull\"",
+    "de": "\"Die Möwe\"",
+    "fr": "\"La Mouette\""
+  },
+  "Люди": {
+    "en": "People",
+    "de": "Menschen",
+    "fr": "Les gens"
+  },
+  "львы": {
+    "en": "lions",
+    "de": "Löwen",
+    "fr": "lions"
+  },
+  "орлы": {
+    "en": "eagles",
+    "de": "Adler",
+    "fr": "aigles"
+  },
+  "и": {
+    "en": "and",
+    "de": "und",
+    "fr": "et"
+  },
+  "куропатки": {
+    "en": "partridges",
+    "de": "Rebhühner",
+    "fr": "perdrix"
+  },
+  "рогатые": {
+    "en": "horned",
+    "de": "gehörnte",
+    "fr": "cornus"
+  },
+  "олени": {
+    "en": "deer",
+    "de": "Hirsche",
+    "fr": "cerfs"
+  },
+  "гуси": {
+    "en": "geese",
+    "de": "Gänse",
+    "fr": "oies"
+  },
+  "пауки": {
+    "en": "spiders",
+    "de": "Spinnen",
+    "fr": "araignées"
+  },
+  "молчаливые": {
+    "en": "silent",
+    "de": "stille",
+    "fr": "silencieuses"
+  },
+  "рыбы": {
+    "en": "fish",
+    "de": "Fische",
+    "fr": "poissons"
+  },
+  "обитавшие": {
+    "en": "inhabiting",
+    "de": "bewohnend",
+    "fr": "habitant"
+  },
+  "в": {
+    "en": "in",
+    "de": "in",
+    "fr": "dans"
+  },
+  "воде": {
+    "en": "water",
+    "de": "Wasser",
+    "fr": "eau"
+  },
+  "морские": {
+    "en": "sea",
+    "de": "Meeres-",
+    "fr": "marines"
+  },
+  "звезды": {
+    "en": "stars",
+    "de": "Sterne",
+    "fr": "étoiles"
+  },
+  "те": {
+    "en": "those",
+    "de": "jene",
+    "fr": "ceux"
+  },
+  "которых": {
+    "en": "whom",
+    "de": "die",
+    "fr": "que"
+  },
+  "нельзя": {
+    "en": "cannot",
+    "de": "kann man nicht",
+    "fr": "on ne peut pas"
+  },
+  "было": {
+    "en": "be",
+    "de": "sein",
+    "fr": "être"
+  },
+  "видеть": {
+    "en": "see",
+    "de": "sehen",
+    "fr": "voir"
+  },
+  "глазом": {
+    "en": "with the eye",
+    "de": "mit dem Auge",
+    "fr": "à l'œil nu"
+  },
+  "—": {
+    "en": "—",
+    "de": "—",
+    "fr": "—"
+  },
+  "словом": {
+    "en": "in short",
+    "de": "kurz gesagt",
+    "fr": "bref"
+  },
+  "все": {
+    "en": "all",
+    "de": "alle",
+    "fr": "toutes"
+  },
+  "жизни": {
+    "en": "lives",
+    "de": "Leben",
+    "fr": "vies"
+  },
+  "свершив": {
+    "en": "having completed",
+    "de": "vollendet habend",
+    "fr": "ayant accompli"
+  },
+  "печальный": {
+    "en": "sad",
+    "de": "traurigen",
+    "fr": "triste"
+  },
+  "круг": {
+    "en": "circle",
+    "de": "Kreis",
+    "fr": "cercle"
+  },
+  "угасли": {
+    "en": "faded away",
+    "de": "erloschen",
+    "fr": "se sont éteintes"
+  },
+  "...": {
+    "en": "...",
+    "de": "...",
+    "fr": "..."
+  },
+  "Уже": {
+    "en": "Already",
+    "de": "Schon",
+    "fr": "Déjà"
+  },
+  "тысячи": {
+    "en": "thousands",
+    "de": "Tausende",
+    "fr": "milliers"
+  },
+  "веков": {
+    "en": "of centuries",
+    "de": "Jahrhunderte",
+    "fr": "siècles"
+  },
+  "как": {
+    "en": "as",
+    "de": "wie",
+    "fr": "comme"
+  },
+  "земля": {
+    "en": "earth",
+    "de": "Erde",
+    "fr": "terre"
+  },
+  "не": {
+    "en": "not",
+    "de": "nicht",
+    "fr": "ne...pas"
+  },
+  "носит": {
+    "en": "bears",
+    "de": "trägt",
+    "fr": "porte"
+  },
+  "на": {
+    "en": "on",
+    "de": "auf",
+    "fr": "sur"
+  },
+  "себе": {
+    "en": "itself",
+    "de": "sich",
+    "fr": "elle"
+  },
+  "ни": {
+    "en": "nor",
+    "de": "kein",
+    "fr": "aucun"
+  },
+  "одного": {
+    "en": "one",
+    "de": "ein",
+    "fr": "un"
+  },
+  "живого": {
+    "en": "living",
+    "de": "lebenden",
+    "fr": "vivant"
+  },
+  "существа": {
+    "en": "creature",
+    "de": "Wesen",
+    "fr": "être"
+  },
+  "эта": {
+    "en": "this",
+    "de": "diese",
+    "fr": "cette"
+  },
+  "бедная": {
+    "en": "poor",
+    "de": "arme",
+    "fr": "pauvre"
+  },
+  "луна": {
+    "en": "moon",
+    "de": "Mond",
+    "fr": "lune"
+  },
+  "напрасно": {
+    "en": "in vain",
+    "de": "vergebens",
+    "fr": "en vain"
+  },
+  "зажигает": {
+    "en": "lights",
+    "de": "zündet an",
+    "fr": "allume"
+  },
+  "свой": {
+    "en": "its",
+    "de": "seinen",
+    "fr": "sa"
+  },
+  "фонарь": {
+    "en": "lantern",
+    "de": "Laterne",
+    "fr": "lanterne"
+  },
+  "На": {
+    "en": "On",
+    "de": "Auf",
+    "fr": "Dans"
+  },
+  "лугу": {
+    "en": "meadow",
+    "de": "Wiese",
+    "fr": "pré"
+  },
+  "уже": {
+    "en": "already",
+    "de": "schon",
+    "fr": "déjà"
+  },
+  "просыпаются": {
+    "en": "wake up",
+    "de": "wachen auf",
+    "fr": "se réveillent"
+  },
+  "с": {
+    "en": "with",
+    "de": "mit",
+    "fr": "avec"
+  },
+  "криком": {
+    "en": "cry",
+    "de": "Schrei",
+    "fr": "cri"
+  },
+  "журавли": {
+    "en": "cranes",
+    "de": "Kraniche",
+    "fr": "grues"
+  },
+  "майских": {
+    "en": "May",
+    "de": "Maikäfer",
+    "fr": "hannetons"
+  },
+  "жуков": {
+    "en": "beetles",
+    "de": "Käfer",
+    "fr": "coléoptères"
+  },
+  "бывает": {
+    "en": "is",
+    "de": "ist",
+    "fr": "est"
+  },
+  "слышно": {
+    "en": "heard",
+    "de": "zu hören",
+    "fr": "entendu"
+  },
+  "липовых": {
+    "en": "linden",
+    "de": "Linden-",
+    "fr": "tilleuls"
+  },
+  "рощах": {
+    "en": "groves",
+    "de": "Hainen",
+    "fr": "bosquets"
+  },
+  "Холодно": {
+    "en": "Cold",
+    "de": "Kalt",
+    "fr": "Froid"
+  },
+  "Пусто": {
+    "en": "Empty",
+    "de": "Leer",
+    "fr": "Vide"
+  },
+  "Страшно": {
+    "en": "Scary",
+    "de": "Angst",
+    "fr": "Effrayant"
+  },
+  "en": "Excerpt from A. P. Chekhov's play \"The Seagull\"\nPeople, lions, eagles and partridges, horned deer, geese, spiders, silent fish inhabiting the water, sea stars and those whom one could not see with the eye—in short, all lives, all lives, all lives, having completed their sad circle, have faded away... Already for thousands of centuries the earth has not borne a single living creature on itself, and this poor moon lights its lantern in vain. In the meadow, cranes no longer wake up with a cry, and May beetles are no longer heard in the linden groves. Cold, cold, cold. Empty, empty, empty. Scary, scary, scary.",
+  "de": "Auszug aus A. P. Tschechows Stück „Die Möwe\"\nMenschen, Löwen, Adler und Rebhühner, gehörnte Hirsche, Gänse, Spinnen, stille Fische, die im Wasser leben, Seesterne und jene, die man mit dem Auge nicht sehen konnte – kurz gesagt, alle Leben, alle Leben, alle Leben, nachdem sie ihren traurigen Kreis vollendet haben, sind erloschen... Schon seit Tausenden von Jahrhunderten trägt die Erde kein einziges lebendes Wesen mehr auf sich, und dieser arme Mond zündet seine Laterne vergebens an. Auf der Wiese wachen Kraniche nicht mehr mit Schreien auf, und Maikäfer sind in den Lindenhainen nicht mehr zu hören. Kalt, kalt, kalt. Leer, leer, leer. Angst, Angst, Angst.",
+  "fr": "Extrait de la pièce d'A. P. Tchekhov « La Mouette »\nLes gens, les lions, les aigles et les perdrix, les cerfs cornus, les oies, les araignées, les poissons silencieux habitant l'eau, les étoiles de mer et ceux que l'on ne pouvait pas voir à l'œil nu — en bref, toutes les vies, toutes les vies, toutes les vies, ayant accompli leur triste cercle, se sont éteintes... Déjà depuis des milliers de siècles, la terre ne porte plus aucun être vivant sur elle, et cette pauvre lune allume sa lanterne en vain. Dans le pré, les grues ne se réveillent plus avec des cris, et on n'entend plus les hannetons dans les bosquets de tilleuls. Froid, froid, froid. Vide, vide, vide. Effrayant, effrayant, effrayant."
+}

@@ -1,0 +1,310 @@
+{
+  "Один": {
+    "en": "one",
+    "de": "ein",
+    "fr": "un"
+  },
+  "день": {
+    "en": "day",
+    "de": "Tag",
+    "fr": "jour"
+  },
+  "у": {
+    "en": "at",
+    "de": "bei",
+    "fr": "chez"
+  },
+  "Кремля": {
+    "en": "of the Kremlin",
+    "de": "des Kremls",
+    "fr": "du Kremlin"
+  },
+  "Когда": {
+    "en": "when",
+    "de": "als",
+    "fr": "quand"
+  },
+  "я": {
+    "en": "I",
+    "de": "ich",
+    "fr": "je"
+  },
+  "впервые": {
+    "en": "for the first time",
+    "de": "zum ersten Mal",
+    "fr": "pour la première fois"
+  },
+  "оказался": {
+    "en": "found myself",
+    "de": "sich befand",
+    "fr": "s’est retrouvé"
+  },
+  "стен": {
+    "en": "walls",
+    "de": "Mauern",
+    "fr": "murs"
+  },
+  "мне": {
+    "en": "to me",
+    "de": "mir",
+    "fr": "me"
+  },
+  "показалось": {
+    "en": "it seemed",
+    "de": "es schien",
+    "fr": "il m’a semblé"
+  },
+  "что": {
+    "en": "that",
+    "de": "dass",
+    "fr": "que"
+  },
+  "время": {
+    "en": "time",
+    "de": "Zeit",
+    "fr": "temps"
+  },
+  "остановилось": {
+    "en": "stopped",
+    "de": "angehalten",
+    "fr": "s’est arrêté"
+  },
+  "Люди": {
+    "en": "people",
+    "de": "Menschen",
+    "fr": "gens"
+  },
+  "спешили": {
+    "en": "hurried",
+    "de": "eilten",
+    "fr": "se dépêchaient"
+  },
+  "автобусы": {
+    "en": "buses",
+    "de": "Busse",
+    "fr": "bus"
+  },
+  "проезжали": {
+    "en": "passed",
+    "de": "fuhren vorbei",
+    "fr": "passaient"
+  },
+  "а": {
+    "en": "and",
+    "de": "und",
+    "fr": "et"
+  },
+  "старинные": {
+    "en": "ancient",
+    "de": "alte",
+    "fr": "anciens"
+  },
+  "башни": {
+    "en": "towers",
+    "de": "Türme",
+    "fr": "tours"
+  },
+  "стояли": {
+    "en": "stood",
+    "de": "standen",
+    "fr": "se tenaient"
+  },
+  "спокойно": {
+    "en": "calmly",
+    "de": "ruhig",
+    "fr": "calmement"
+  },
+  "как": {
+    "en": "as",
+    "de": "wie",
+    "fr": "comme"
+  },
+  "и": {
+    "en": "and",
+    "de": "und",
+    "fr": "et"
+  },
+  "сотни": {
+    "en": "hundreds",
+    "de": "Hunderte",
+    "fr": "centaines"
+  },
+  "лет": {
+    "en": "years",
+    "de": "Jahre",
+    "fr": "années"
+  },
+  "назад": {
+    "en": "ago",
+    "de": "zurück",
+    "fr": "en arrière"
+  },
+  "Моя": {
+    "en": "my",
+    "de": "meine",
+    "fr": "ma"
+  },
+  "бабушка": {
+    "en": "grandmother",
+    "de": "Großmutter",
+    "fr": "grand-mère"
+  },
+  "рассказывала": {
+    "en": "told",
+    "de": "erzählte",
+    "fr": "racontait"
+  },
+  "она": {
+    "en": "she",
+    "de": "sie",
+    "fr": "elle"
+  },
+  "тоже": {
+    "en": "also",
+    "de": "auch",
+    "fr": "aussi"
+  },
+  "когда-то": {
+    "en": "once",
+    "de": "einmal",
+    "fr": "autrefois"
+  },
+  "приходила": {
+    "en": "came",
+    "de": "kam",
+    "fr": "venait"
+  },
+  "сюда": {
+    "en": "here",
+    "de": "hierher",
+    "fr": "ici"
+  },
+  "с": {
+    "en": "with",
+    "de": "mit",
+    "fr": "avec"
+  },
+  "друзьями": {
+    "en": "friends",
+    "de": "Freunden",
+    "fr": "amis"
+  },
+  "после": {
+    "en": "after",
+    "de": "nach",
+    "fr": "après"
+  },
+  "института": {
+    "en": "institute",
+    "de": "Institut",
+    "fr": "institut"
+  },
+  "Глядя": {
+    "en": "looking",
+    "de": "schauend",
+    "fr": "en regardant"
+  },
+  "на": {
+    "en": "at",
+    "de": "auf",
+    "fr": "sur"
+  },
+  "Спасскую": {
+    "en": "Spasskaya",
+    "de": "Spasskaja",
+    "fr": "Spasskaïa"
+  },
+  "башню": {
+    "en": "tower",
+    "de": "Turm",
+    "fr": "tour"
+  },
+  "вдруг": {
+    "en": "suddenly",
+    "de": "plötzlich",
+    "fr": "soudain"
+  },
+  "почувствовал": {
+    "en": "felt",
+    "de": "fühlte",
+    "fr": "a ressenti"
+  },
+  "часть": {
+    "en": "part",
+    "de": "Teil",
+    "fr": "partie"
+  },
+  "этой": {
+    "en": "this",
+    "de": "dieser",
+    "fr": "de cette"
+  },
+  "большой": {
+    "en": "big",
+    "de": "großen",
+    "fr": "grande"
+  },
+  "истории": {
+    "en": "history",
+    "de": "Geschichte",
+    "fr": "histoire"
+  },
+  "Москва": {
+    "en": "Moscow",
+    "de": "Moskau",
+    "fr": "Moscou"
+  },
+  "изменилась": {
+    "en": "has changed",
+    "de": "hat sich verändert",
+    "fr": "a changé"
+  },
+  "но": {
+    "en": "but",
+    "de": "aber",
+    "fr": "mais"
+  },
+  "Кремль": {
+    "en": "Kremlin",
+    "de": "Kreml",
+    "fr": "Kremlin"
+  },
+  "остаётся": {
+    "en": "remains",
+    "de": "bleibt",
+    "fr": "reste"
+  },
+  "тем": {
+    "en": "the same",
+    "de": "demselben",
+    "fr": "le même"
+  },
+  "же": {
+    "en": "same",
+    "de": "selben",
+    "fr": "même"
+  },
+  "каким": {
+    "en": "as which",
+    "de": "wie",
+    "fr": "tel que"
+  },
+  "был": {
+    "en": "was",
+    "de": "war",
+    "fr": "était"
+  },
+  "для": {
+    "en": "for",
+    "de": "für",
+    "fr": "pour"
+  },
+  "её": {
+    "en": "her",
+    "de": "ihr",
+    "fr": "elle"
+  },
+  "en": "One day near the Kremlin, I felt time had stopped. People were rushing, buses were passing, while the ancient towers stood calmly as they had for hundreds of years. My grandmother said she once came here with friends after university. Looking at the Spasskaya Tower, I suddenly felt part of this great history. Moscow has changed, but the Kremlin remains the same as it was for her.",
+  "de": "Eines Tages am Kreml hatte ich das Gefühl, dass die Zeit stehen geblieben ist. Menschen eilten vorbei, Busse fuhren, während die alten Türme ruhig standen wie vor Hunderten von Jahren. Meine Großmutter erzählte, dass sie einst mit Freunden nach dem Studium hier war. Als ich den Spasskaja-Turm betrachtete, fühlte ich plötzlich, dass ich Teil dieser großen Geschichte bin. Moskau hat sich verändert, aber der Kreml bleibt derselbe wie für sie.",
+  "fr": "Un jour près du Kremlin, j’ai eu l’impression que le temps s’était arrêté. Les gens se pressaient, les bus passaient, tandis que les anciennes tours restaient calmes comme depuis des centaines d’années. Ma grand-mère racontait qu’elle venait ici avec des amis après l’université. En regardant la tour Spasskaïa, j’ai soudain ressenti que je faisais partie de cette grande histoire. Moscou a changé, mais le Kremlin reste le même qu’il était pour elle."
+}

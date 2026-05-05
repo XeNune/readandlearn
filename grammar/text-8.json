@@ -1,0 +1,372 @@
+{
+  "Отрывок": {
+    "en": "noun, singular, nominative case",
+    "de": "Nomen, Singular, Nominativ",
+    "fr": "nom, singulier, masculin"
+  },
+  "из": {
+    "en": "preposition",
+    "de": "Präposition",
+    "fr": "préposition"
+  },
+  "пьесы": {
+    "en": "noun, singular, genitive case",
+    "de": "Nomen, Singular, Genitiv",
+    "fr": "nom, singulier, féminin"
+  },
+  "А": {
+    "en": "proper noun, initial",
+    "de": "Eigenname, Initial",
+    "fr": "nom propre, initiale"
+  },
+  "П": {
+    "en": "proper noun, initial",
+    "de": "Eigenname, Initial",
+    "fr": "nom propre, initiale"
+  },
+  "Чехова": {
+    "en": "proper noun, singular, genitive case",
+    "de": "Eigenname, Singular, Genitiv",
+    "fr": "nom propre, singulier"
+  },
+  "«Чайка»": {
+    "en": "proper noun, singular, nominative case",
+    "de": "Eigenname, Singular, Nominativ",
+    "fr": "nom propre, singulier, féminin"
+  },
+  "Люди": {
+    "en": "noun, plural, nominative case",
+    "de": "Nomen, Plural, Nominativ",
+    "fr": "nom, pluriel, masculin"
+  },
+  "львы": {
+    "en": "noun, plural, nominative case",
+    "de": "Nomen, Plural, Nominativ",
+    "fr": "nom, pluriel, masculin"
+  },
+  "орлы": {
+    "en": "noun, plural, nominative case",
+    "de": "Nomen, Plural, Nominativ",
+    "fr": "nom, pluriel, masculin"
+  },
+  "и": {
+    "en": "conjunction",
+    "de": "Konjunktion",
+    "fr": "conjonction"
+  },
+  "куропатки": {
+    "en": "noun, plural, nominative case",
+    "de": "Nomen, Plural, Nominativ",
+    "fr": "nom, pluriel, féminin"
+  },
+  "рогатые": {
+    "en": "adjective, plural, nominative case",
+    "de": "Adjektiv, Plural, Nominativ",
+    "fr": "adjectif, pluriel, masculin"
+  },
+  "олени": {
+    "en": "noun, plural, nominative case",
+    "de": "Nomen, Plural, Nominativ",
+    "fr": "nom, pluriel, masculin"
+  },
+  "гуси": {
+    "en": "noun, plural, nominative case",
+    "de": "Nomen, Plural, Nominativ",
+    "fr": "nom, pluriel, féminin"
+  },
+  "пауки": {
+    "en": "noun, plural, nominative case",
+    "de": "Nomen, Plural, Nominativ",
+    "fr": "nom, pluriel, féminin"
+  },
+  "молчаливые": {
+    "en": "adjective, plural, nominative case",
+    "de": "Adjektiv, Plural, Nominativ",
+    "fr": "adjectif, pluriel, féminin"
+  },
+  "рыбы": {
+    "en": "noun, plural, nominative case",
+    "de": "Nomen, Plural, Nominativ",
+    "fr": "nom, pluriel, masculin"
+  },
+  "обитавшие": {
+    "en": "participle, plural, nominative case, past tense, active voice",
+    "de": "Partizip, Plural, Nominativ, Vergangenheit",
+    "fr": "participe passé, pluriel"
+  },
+  "в": {
+    "en": "preposition",
+    "de": "Präposition",
+    "fr": "préposition"
+  },
+  "воде": {
+    "en": "noun, singular, prepositional case",
+    "de": "Nomen, Singular, Dativ",
+    "fr": "nom, singulier, féminin"
+  },
+  "морские": {
+    "en": "adjective, plural, nominative case",
+    "de": "Adjektiv, Plural, Nominativ",
+    "fr": "adjectif, pluriel, féminin"
+  },
+  "звезды": {
+    "en": "noun, plural, nominative case",
+    "de": "Nomen, Plural, Nominativ",
+    "fr": "nom, pluriel, féminin"
+  },
+  "те": {
+    "en": "pronoun, plural, nominative case",
+    "de": "Pronomen, Plural, Nominativ",
+    "fr": "pronom, pluriel"
+  },
+  "которых": {
+    "en": "relative pronoun, plural, genitive/accusative case",
+    "de": "Relativpronomen, Plural, Genitiv/Akkusativ",
+    "fr": "pronom relatif, pluriel"
+  },
+  "нельзя": {
+    "en": "predicate adverb (impersonal)",
+    "de": "Prädikativadverb (unpersönlich)",
+    "fr": "adverbe impersonnel"
+  },
+  "было": {
+    "en": "verb, singular, neuter gender, past tense",
+    "de": "Verb, Singular, Neutrum, Präteritum",
+    "fr": "verbe, singulier, imparfait"
+  },
+  "видеть": {
+    "en": "verb, infinitive, imperfective aspect",
+    "de": "Verb, Infinitiv, Imperfektiv",
+    "fr": "verbe, infinitif"
+  },
+  "глазом": {
+    "en": "noun, singular, instrumental case",
+    "de": "Nomen, Singular, Instrumental",
+    "fr": "nom, singulier, masculin"
+  },
+  "—": {
+    "en": "punctuation mark (dash)",
+    "de": "Satzzeichen (Gedankenstrich)",
+    "fr": "ponctuation (tiret)"
+  },
+  "словом": {
+    "en": "noun, singular, instrumental case (used as introductory word)",
+    "de": "Nomen, Singular, Instrumental (als Einleitungswort)",
+    "fr": "nom, singulier, masculin (locution)"
+  },
+  "все": {
+    "en": "pronoun/adjective, plural, nominative case",
+    "de": "Pronomen/Adjektiv, Plural, Nominativ",
+    "fr": "pronom/adjectif, pluriel"
+  },
+  "жизни": {
+    "en": "noun, plural, nominative case",
+    "de": "Nomen, Plural, Nominativ",
+    "fr": "nom, pluriel, féminin"
+  },
+  "свершив": {
+    "en": "gerund, perfective aspect, past tense",
+    "de": "Gerundium, Perfektiv, Vergangenheit",
+    "fr": "gérondif passé"
+  },
+  "печальный": {
+    "en": "adjective, singular, masculine gender, accusative case",
+    "de": "Adjektiv, Singular, Maskulinum, Akkusativ",
+    "fr": "adjectif, singulier, masculin"
+  },
+  "круг": {
+    "en": "noun, singular, masculine gender, accusative case",
+    "de": "Nomen, Singular, Maskulinum, Akkusativ",
+    "fr": "nom, singulier, masculin"
+  },
+  "угасли": {
+    "en": "verb, plural, past tense, perfective aspect",
+    "de": "Verb, Plural, Präteritum, Perfektiv",
+    "fr": "verbe, pluriel, passé composé"
+  },
+  "...": {
+    "en": "punctuation mark (ellipsis)",
+    "de": "Satzzeichen (Auslassungspunkte)",
+    "fr": "ponctuation (points de suspension)"
+  },
+  "Уже": {
+    "en": "adverb",
+    "de": "Adverb",
+    "fr": "adverbe"
+  },
+  "тысячи": {
+    "en": "numeral, plural, nominative case",
+    "de": "Numerale, Plural, Nominativ",
+    "fr": "numéral, pluriel"
+  },
+  "веков": {
+    "en": "noun, plural, genitive case",
+    "de": "Nomen, Plural, Genitiv",
+    "fr": "nom, pluriel, masculin"
+  },
+  "как": {
+    "en": "conjunction/adverb",
+    "de": "Konjunktion/Adverb",
+    "fr": "conjonction/adverbe"
+  },
+  "земля": {
+    "en": "noun, singular, feminine gender, nominative case",
+    "de": "Nomen, Singular, Femininum, Nominativ",
+    "fr": "nom, singulier, féminin"
+  },
+  "не": {
+    "en": "particle (negation)",
+    "de": "Partikel (Negation)",
+    "fr": "particule (négation)"
+  },
+  "носит": {
+    "en": "verb, singular, third person, present tense, imperfective aspect",
+    "de": "Verb, Singular, 3. Person, Präsens, Imperfektiv",
+    "fr": "verbe, singulier, 3e personne, présent"
+  },
+  "на": {
+    "en": "preposition",
+    "de": "Präposition",
+    "fr": "préposition"
+  },
+  "себе": {
+    "en": "reflexive pronoun, dative/prepositional case",
+    "de": "Reflexivpronomen, Dativ/Präpositiv",
+    "fr": "pronom réfléchi"
+  },
+  "ни": {
+    "en": "particle/conjunction (negation reinforcement)",
+    "de": "Partikel/Konjunktion (Verstärkung der Negation)",
+    "fr": "particule/conjonction (renforcement de la négation)"
+  },
+  "одного": {
+    "en": "numeral/pronoun, singular, masculine gender, genitive/accusative case",
+    "de": "Numerale/Pronomen, Singular, Maskulinum, Genitiv/Akkusativ",
+    "fr": "numéral/pronom, singulier, masculin"
+  },
+  "живого": {
+    "en": "adjective/noun, singular, masculine gender, genitive/accusative case",
+    "de": "Adjektiv/Substantiv, Singular, Maskulinum, Genitiv/Akkusativ",
+    "fr": "adjectif/nom, singulier, masculin"
+  },
+  "существа": {
+    "en": "noun, singular, neuter gender, genitive case",
+    "de": "Nomen, Singular, Neutrum, Genitiv",
+    "fr": "nom, singulier, masculin"
+  },
+  "эта": {
+    "en": "demonstrative pronoun, singular, feminine gender, nominative case",
+    "de": "Demonstrativpronomen, Singular, Femininum, Nominativ",
+    "fr": "pronom démonstratif, singulier, féminin"
+  },
+  "бедная": {
+    "en": "adjective, singular, feminine gender, nominative case",
+    "de": "Adjektiv, Singular, Femininum, Nominativ",
+    "fr": "adjectif, singulier, féminin"
+  },
+  "луна": {
+    "en": "noun, singular, feminine gender, nominative case",
+    "de": "Nomen, Singular, Femininum, Nominativ",
+    "fr": "nom, singulier, féminin"
+  },
+  "напрасно": {
+    "en": "adverb",
+    "de": "Adverb",
+    "fr": "adverbe"
+  },
+  "зажигает": {
+    "en": "verb, singular, third person, present tense, imperfective aspect",
+    "de": "Verb, Singular, 3. Person, Präsens, Imperfektiv",
+    "fr": "verbe, singulier, 3e personne, présent"
+  },
+  "свой": {
+    "en": "possessive pronoun, singular, masculine gender, accusative case",
+    "de": "Possessivpronomen, Singular, Maskulinum, Akkusativ",
+    "fr": "pronom possessif, singulier"
+  },
+  "фонарь": {
+    "en": "noun, singular, masculine gender, accusative case",
+    "de": "Nomen, Singular, Maskulinum, Akkusativ",
+    "fr": "nom, singulier, masculin"
+  },
+  "На": {
+    "en": "preposition",
+    "de": "Präposition",
+    "fr": "préposition"
+  },
+  "лугу": {
+    "en": "noun, singular, masculine gender, prepositional case",
+    "de": "Nomen, Singular, Maskulinum, Präpositiv",
+    "fr": "nom, singulier, masculin"
+  },
+  "уже": {
+    "en": "adverb",
+    "de": "Adverb",
+    "fr": "adverbe"
+  },
+  "просыпаются": {
+    "en": "verb, plural, third person, present tense, imperfective aspect, reflexive",
+    "de": "Verb, Plural, 3. Person, Präsens, Imperfektiv, reflexiv",
+    "fr": "verbe, pluriel, 3e personne, présent, pronominal"
+  },
+  "с": {
+    "en": "preposition",
+    "de": "Präposition",
+    "fr": "préposition"
+  },
+  "криком": {
+    "en": "noun, singular, masculine gender, instrumental case",
+    "de": "Nomen, Singular, Maskulinum, Instrumental",
+    "fr": "nom, singulier, masculin"
+  },
+  "журавли": {
+    "en": "noun, plural, nominative case",
+    "de": "Nomen, Plural, Nominativ",
+    "fr": "nom, pluriel, féminin"
+  },
+  "майских": {
+    "en": "adjective, plural, genitive case",
+    "de": "Adjektiv, Plural, Genitiv",
+    "fr": "adjectif, pluriel, masculin"
+  },
+  "жуков": {
+    "en": "noun, plural, genitive case",
+    "de": "Nomen, Plural, Genitiv",
+    "fr": "nom, pluriel, masculin"
+  },
+  "бывает": {
+    "en": "verb, singular, third person, present tense, imperfective aspect",
+    "de": "Verb, Singular, 3. Person, Präsens, Imperfektiv",
+    "fr": "verbe, singulier, 3e personne, présent"
+  },
+  "слышно": {
+    "en": "predicative adverb / short participle",
+    "de": "Prädikativadverb / Kurzpartizip",
+    "fr": "adjectif prédicatif / participe passé"
+  },
+  "липовых": {
+    "en": "adjective, plural, prepositional case",
+    "de": "Adjektiv, Plural, Präpositiv",
+    "fr": "adjectif, pluriel, masculin"
+  },
+  "рощах": {
+    "en": "noun, plural, prepositional case",
+    "de": "Nomen, Plural, Präpositiv",
+    "fr": "nom, pluriel, masculin"
+  },
+  "Холодно": {
+    "en": "predicative adverb",
+    "de": "Prädikativadverb",
+    "fr": "adjectif prédicatif"
+  },
+  "Пусто": {
+    "en": "predicative adverb",
+    "de": "Prädikativadverb",
+    "fr": "adjectif prédicatif"
+  },
+  "Страшно": {
+    "en": "predicative adverb",
+    "de": "Prädikativadverb",
+    "fr": "adjectif prédicatif"
+  }
+}
