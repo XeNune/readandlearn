@@ -1,0 +1,390 @@
+{
+  "В": {
+    "en": "In",
+    "de": "In",
+    "fr": "Dans"
+  },
+  "своей": {
+    "en": "his",
+    "de": "seiner",
+    "fr": "sa"
+  },
+  "книге": {
+    "en": "book",
+    "de": "Buch",
+    "fr": "livre"
+  },
+  "писатель": {
+    "en": "writer",
+    "de": "Schriftsteller",
+    "fr": "écrivain"
+  },
+  "и": {
+    "en": "and",
+    "de": "und",
+    "fr": "et"
+  },
+  "журналист": {
+    "en": "journalist",
+    "de": "Journalist",
+    "fr": "journaliste"
+  },
+  "Лев": {
+    "en": "Lev",
+    "de": "Lew",
+    "fr": "Lev"
+  },
+  "Данилкин": {
+    "en": "Danilkin",
+    "de": "Danilkin",
+    "fr": "Danilkine"
+  },
+  "который": {
+    "en": "who",
+    "de": "der",
+    "fr": "qui"
+  },
+  "известен": {
+    "en": "known",
+    "de": "bekannt",
+    "fr": "connu"
+  },
+  "своим": {
+    "en": "his",
+    "de": "seinem",
+    "fr": "son"
+  },
+  "новаторским": {
+    "en": "innovative",
+    "de": "innovativen",
+    "fr": "novateur"
+  },
+  "подходом": {
+    "en": "approach",
+    "de": "Ansatz",
+    "fr": "approche"
+  },
+  "к": {
+    "en": "to",
+    "de": "zu",
+    "fr": "à"
+  },
+  "составлению": {
+    "en": "compiling",
+    "de": "Erstellung",
+    "fr": "rédaction"
+  },
+  "биографий": {
+    "en": "biographies",
+    "de": "Biografien",
+    "fr": "biographies"
+  },
+  "известных": {
+    "en": "famous",
+    "de": "bekannten",
+    "fr": "célèbres"
+  },
+  "людей": {
+    "en": "people",
+    "de": "Menschen",
+    "fr": "personnes"
+  },
+  "на": {
+    "en": "on",
+    "de": "auf",
+    "fr": "sur"
+  },
+  "его": {
+    "en": "his",
+    "de": "sein",
+    "fr": "son"
+  },
+  "счету": {
+    "en": "account",
+    "de": "Konto",
+    "fr": "compte"
+  },
+  "уже": {
+    "en": "already",
+    "de": "bereits",
+    "fr": "déjà"
+  },
+  "несколько": {
+    "en": "several",
+    "de": "mehrere",
+    "fr": "plusieurs"
+  },
+  "Гагарина": {
+    "en": "Gagarin",
+    "de": "Gagarin",
+    "fr": "Gagarine"
+  },
+  "Ленина": {
+    "en": "Lenin",
+    "de": "Lenin",
+    "fr": "Lénine"
+  },
+  "основе": {
+    "en": "basis",
+    "de": "Grundlage",
+    "fr": "base"
+  },
+  "личных": {
+    "en": "personal",
+    "de": "persönlichen",
+    "fr": "personnels"
+  },
+  "дневников": {
+    "en": "diaries",
+    "de": "Tagebücher",
+    "fr": "journaux"
+  },
+  "космонавта": {
+    "en": "cosmonaut",
+    "de": "Kosmonauten",
+    "fr": "cosmonaute"
+  },
+  "воспоминаний": {
+    "en": "memoirs",
+    "de": "Erinnerungen",
+    "fr": "souvenirs"
+  },
+  "родных": {
+    "en": "relatives",
+    "de": "Angehörigen",
+    "fr": "proches"
+  },
+  "коллег": {
+    "en": "colleagues",
+    "de": "Kollegen",
+    "fr": "collègues"
+  },
+  "по": {
+    "en": "by",
+    "de": "nach",
+    "fr": "par"
+  },
+  "работе": {
+    "en": "work",
+    "de": "Arbeit",
+    "fr": "travail"
+  },
+  "архивных": {
+    "en": "archival",
+    "de": "archivarischen",
+    "fr": "d'archives"
+  },
+  "документов": {
+    "en": "documents",
+    "de": "Dokumente",
+    "fr": "documents"
+  },
+  "журналистских": {
+    "en": "journalistic",
+    "de": "journalistischen",
+    "fr": "journalistiques"
+  },
+  "материалов": {
+    "en": "materials",
+    "de": "Materialien",
+    "fr": "matériaux"
+  },
+  "личного": {
+    "en": "personal",
+    "de": "persönlichen",
+    "fr": "personnel"
+  },
+  "опыта": {
+    "en": "experience",
+    "de": "Erfahrung",
+    "fr": "expérience"
+  },
+  "общения": {
+    "en": "communication",
+    "de": "Kommunikation",
+    "fr": "communication"
+  },
+  "со": {
+    "en": "with",
+    "de": "mit",
+    "fr": "avec"
+  },
+  "всеми": {
+    "en": "all",
+    "de": "allen",
+    "fr": "tous"
+  },
+  "причастными": {
+    "en": "involved",
+    "de": "beteiligten",
+    "fr": "impliqués"
+  },
+  "людьми": {
+    "en": "people",
+    "de": "Menschen",
+    "fr": "personnes"
+  },
+  "воспроизводит": {
+    "en": "recreates",
+    "de": "rekonstruiert",
+    "fr": "reconstitue"
+  },
+  "хронику": {
+    "en": "chronicle",
+    "de": "Chronik",
+    "fr": "chronique"
+  },
+  "жизни": {
+    "en": "life",
+    "de": "Lebens",
+    "fr": "vie"
+  },
+  "Юрия": {
+    "en": "Yuri",
+    "de": "Juri",
+    "fr": "Youri"
+  },
+  "ней": {
+    "en": "it",
+    "de": "ihr",
+    "fr": "elle"
+  },
+  "собраны": {
+    "en": "collected",
+    "de": "gesammelt",
+    "fr": "rassemblés"
+  },
+  "все": {
+    "en": "all",
+    "de": "alle",
+    "fr": "tous"
+  },
+  "знаковые": {
+    "en": "significant",
+    "de": "bedeutende",
+    "fr": "marquants"
+  },
+  "моменты": {
+    "en": "moments",
+    "de": "Momente",
+    "fr": "moments"
+  },
+  "от": {
+    "en": "from",
+    "de": "von",
+    "fr": "de"
+  },
+  "семейных": {
+    "en": "family",
+    "de": "familiären",
+    "fr": "familiales"
+  },
+  "отношений": {
+    "en": "relations",
+    "de": "Beziehungen",
+    "fr": "relations"
+  },
+  "до": {
+    "en": "to",
+    "de": "bis",
+    "fr": "jusqu'à"
+  },
+  "подготовки": {
+    "en": "preparation",
+    "de": "Vorbereitung",
+    "fr": "préparation"
+  },
+  "стартам": {
+    "en": "launches",
+    "de": "Starts",
+    "fr": "lancements"
+  },
+  "первые": {
+    "en": "first",
+    "de": "erste",
+    "fr": "premiers"
+  },
+  "полёты": {
+    "en": "flights",
+    "de": "Flüge",
+    "fr": "vols"
+  },
+  "трагическая": {
+    "en": "tragic",
+    "de": "tragische",
+    "fr": "tragique"
+  },
+  "кончина": {
+    "en": "death",
+    "de": "Tod",
+    "fr": "mort"
+  },
+  "Также": {
+    "en": "Also",
+    "de": "Außerdem",
+    "fr": "Aussi"
+  },
+  "автор": {
+    "en": "author",
+    "de": "Autor",
+    "fr": "auteur"
+  },
+  "представляет": {
+    "en": "presents",
+    "de": "präsentiert",
+    "fr": "présente"
+  },
+  "читателям": {
+    "en": "readers",
+    "de": "Lesern",
+    "fr": "lecteurs"
+  },
+  "мысли": {
+    "en": "thoughts",
+    "de": "Gedanken",
+    "fr": "pensées"
+  },
+  "чувства": {
+    "en": "feelings",
+    "de": "Gefühle",
+    "fr": "sentiments"
+  },
+  "самого": {
+    "en": "himself",
+    "de": "selbst",
+    "fr": "lui-même"
+  },
+  "которые": {
+    "en": "which",
+    "de": "die",
+    "fr": "qui"
+  },
+  "тот": {
+    "en": "he",
+    "de": "jener",
+    "fr": "celui-ci"
+  },
+  "испытывал": {
+    "en": "experienced",
+    "de": "erlebte",
+    "fr": "ressentait"
+  },
+  "самые": {
+    "en": "most",
+    "de": "die meisten",
+    "fr": "les plus"
+  },
+  "ответственные": {
+    "en": "important",
+    "de": "verantwortungsvollen",
+    "fr": "importantes"
+  },
+  "периоды": {
+    "en": "periods",
+    "de": "Perioden",
+    "fr": "périodes"
+  },
+  "en": "In his book, writer and journalist Lev Danilkin, known for his innovative approach to compiling biographies of famous people — he already has several biographies of Gagarin and Lenin to his credit — recreates the chronicle of Yuri Gagarin’s life using the cosmonaut’s personal diaries, memories of his relatives and colleagues, archival documents, journalistic materials, and personal communication experience with everyone involved. It contains all the significant moments: from family relationships to preparations for launches, the first flights, and the tragic death. The author also presents to readers the thoughts and feelings of the cosmonaut himself, which he experienced during the most important periods of his life.",
+  "de": "In seinem Buch rekonstruiert der Schriftsteller und Journalist Lew Danilkin, der für seinen innovativen Ansatz bei der Erstellung von Biografien berühmter Menschen bekannt ist und bereits mehrere Biografien über Gagarin und Lenin veröffentlicht hat, anhand persönlicher Tagebücher des Kosmonauten, Erinnerungen seiner Verwandten und Kollegen, Archivdokumenten, journalistischen Materialien und persönlicher Gespräche mit allen Beteiligten die Chronik des Lebens von Juri Gagarin. Darin sind alle bedeutenden Momente gesammelt: von familiären Beziehungen bis zur Vorbereitung auf Starts, die ersten Flüge und der tragische Tod. Außerdem präsentiert der Autor den Lesern die Gedanken und Gefühle des Kosmonauten selbst, die er in den wichtigsten Perioden seines Lebens empfand.",
+  "fr": "Dans son livre, l’écrivain et journaliste Lev Danilkine, connu pour son approche novatrice dans la rédaction de biographies de personnalités célèbres — il a déjà écrit plusieurs biographies de Gagarine et de Lénine — reconstitue la chronique de la vie de Youri Gagarine à partir des journaux personnels du cosmonaute, des souvenirs de ses proches et collègues, de documents d’archives, de matériaux journalistiques et de son expérience personnelle de communication avec toutes les personnes impliquées. On y trouve tous les moments marquants : des relations familiales à la préparation des lancements, les premiers vols et la mort tragique. L’auteur présente également aux lecteurs les pensées et les sentiments du cosmonaute lui-même, qu’il éprouvait pendant les périodes les plus importantes de sa vie."
+}

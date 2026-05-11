@@ -330,8 +330,30 @@ function getFullTranslation(sentence) {
     }).join(' ') || 'Перевод недоступен';
 }
 
+function openExplain() {
+    if (!currentTextId) return;
+
+    const modal = document.getElementById('explainModal');
+    const content = document.getElementById('explainContent');
+
+    content.textContent = getExplainText(currentTextId);
+
+    modal.classList.add('visible');
+    document.body.style.overflow = 'hidden';
+}
+
+function closeExplain() {
+    document.getElementById('explainModal').classList.remove('visible');
+    document.body.style.overflow = '';
+}
+
 // ─── Event guards ─────────────────────────────────────────────────────────────
-document.addEventListener('keydown', e => { if (e.key === 'Escape') closeAllPopups(); });
+document.addEventListener('keydown', e => {
+    if (e.key === 'Escape') {
+        closeAllPopups();
+        closeExplain();
+    }
+});
 
 const _wp = document.getElementById('wordPopup');
 if (_wp) _wp.addEventListener('click', e => e.stopPropagation());

@@ -151,7 +151,7 @@ body { overflow: hidden; }
 /* ==========================================
    TEXTS LIST
    ========================================== */
-.texts-container {
+/* .texts-container {
     flex: 1;
     overflow-y: auto;
     padding: 1.6rem 1.2rem;
@@ -160,10 +160,10 @@ body { overflow: hidden; }
     gap: 1.4rem;
     align-content: start;
     background: var(--parchment);
-}
+} */
 
 /* TEXT CARD */
-.text-card {
+/* .text-card {
     background: var(--white);
     border: 1px solid var(--gold-border);
     border-radius: var(--radius-lg);
@@ -174,7 +174,7 @@ body { overflow: hidden; }
     display: flex;
     flex-direction: column;
     position: relative;
-}
+} */
 .text-card::before {
     content: '';
     position: absolute;
@@ -647,4 +647,178 @@ body { overflow: hidden; }
     }
     .btn-primary:hover { transform: none; }
     .btn-primary:active { transform: scale(0.97); }
+}
+
+
+.explain-modal {
+    position: fixed;
+    inset: 0;
+    background: #fdfbf7;
+    z-index: 5000;
+    display: none;
+    flex-direction: column;
+}
+
+.explain-modal.visible {
+    display: flex;
+}
+
+.explain-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    border-bottom: 1px solid #ddd;
+    background: white;
+}
+
+.explain-content {
+    flex: 1;
+    overflow-y: auto;
+    padding: 32px;
+    font-size: 20px;
+    line-height: 1.8;
+    white-space: pre-wrap;
+}
+
+/* ==========================================
+   FIXED TEXT CARDS
+   ========================================== */
+
+.texts-container {
+    flex: 1;
+    overflow-y: auto;
+
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+
+    gap: 20px;
+    padding: 20px;
+
+    align-items: start;
+    align-content: start;
+}
+
+.text-card {
+    position: relative;
+
+    display: flex;
+    flex-direction: column;
+
+    height: 220px;
+    min-height: 220px;
+
+    overflow: hidden;
+
+    background: var(--white);
+    border: 1px solid var(--gold-border);
+    border-radius: var(--radius-lg);
+
+    box-shadow: var(--shadow-sm);
+
+    cursor: pointer;
+
+    transition:
+        transform 0.25s ease,
+        box-shadow 0.25s ease,
+        border-color 0.25s ease;
+}
+
+.text-card:hover {
+    transform: translateY(-4px);
+
+    border-color: var(--gold);
+
+    box-shadow: var(--shadow-md);
+}
+
+.text-card-header {
+    flex-shrink: 0;
+
+    padding: 18px 20px 12px;
+}
+
+.text-card-body {
+    flex: 1;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+    padding: 0 20px 18px;
+
+    overflow: hidden;
+}
+
+.text-card-title {
+    display: -webkit-box;
+
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+
+    overflow: hidden;
+
+    line-height: 1.3;
+}
+
+.text-card-languages {
+    overflow: hidden;
+}
+
+/* ==========================================
+   MOBILE
+   ========================================== */
+
+@media (max-width: 768px) {
+
+    .texts-container {
+        grid-template-columns: 1fr;
+
+        gap: 16px;
+        padding: 16px;
+    }
+
+    .text-card {
+        height: 200px;
+        min-height: 200px;
+    }
+
+    .text-card-header {
+        padding: 16px 16px 10px;
+    }
+
+    .text-card-body {
+        padding: 0 16px 16px;
+    }
+
+    .text-card-title {
+        font-size: 1rem;
+    }
+
+    .language-badge {
+        font-size: 0.68rem;
+    }
+
+    .reader-controls {
+        flex-direction: column;
+        gap: 0.7rem;
+        padding: 0.8rem 1rem;
+    }
+
+    .control-group {
+        width: 100%;
+    }
+
+    .control-group select {
+        width: 100%;
+    }
+
+    .text-content {
+        padding: 1rem;
+        font-size: 1rem;
+    }
+
+    .header {
+        padding: 0.8rem 1rem;
+    }
 }

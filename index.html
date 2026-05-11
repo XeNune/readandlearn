@@ -54,6 +54,9 @@
                     <option value="full">Показать переведённый текст</option>
                 </select>
             </div>
+            <button class="btn btn-secondary" onclick="openExplain()">
+                Объяснение текста
+            </button>
         </div>
 
         <div class="text-content" id="textContent"></div>
@@ -83,7 +86,16 @@
             <div id="grammarContent" class="grammar-content"></div>
         </div>
     </div>
+    <!-- Explain Fullscreen -->
+    <div id="explainModal" class="explain-modal">
+        <div class="explain-header">
+            <button class="btn-back" onclick="closeExplain()">←</button>
+            <h2>Объяснение</h2>
+            <div></div>
+        </div>
 
+        <div id="explainContent" class="explain-content"></div>
+    </div>
     <!-- Overlay -->
     <div id="overlay" class="overlay" onclick="closeAllPopups()" style="display:none;"></div>
 

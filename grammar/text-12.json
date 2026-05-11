@@ -1,0 +1,252 @@
+{
+  "Россияне": {
+    "en": "noun, masculine, plural, nominative",
+    "de": "Substantiv, maskulin, Plural, Nominativ",
+    "fr": "nom, masculin, pluriel, nominatif"
+  },
+  "могут": {
+    "en": "verb, present tense, plural",
+    "de": "Verb, Präsens, Plural",
+    "fr": "verbe, présent, pluriel"
+  },
+  "строить": {
+    "en": "verb, infinitive",
+    "de": "Verb, Infinitiv",
+    "fr": "verbe, infinitif"
+  },
+  "семью": {
+    "en": "noun, feminine, accusative singular",
+    "de": "Substantiv, feminin, Akkusativ Singular",
+    "fr": "nom, féminin, accusatif singulier"
+  },
+  "и": {
+    "en": "conjunction",
+    "de": "Konjunktion",
+    "fr": "conjonction"
+  },
+  "на": {
+    "en": "preposition",
+    "de": "Präposition",
+    "fr": "préposition"
+  },
+  "«25": {
+    "en": "numeral with quotation mark",
+    "de": "Numerale mit Anführungszeichen",
+    "fr": "numéral avec guillemet"
+  },
+  "квадратных": {
+    "en": "adjective, plural, prepositional",
+    "de": "Adjektiv, Plural, Präpositiv",
+    "fr": "adjectif, pluriel, locatif"
+  },
+  "метрах»": {
+    "en": "noun, masculine, prepositional plural",
+    "de": "Substantiv, maskulin, Präpositiv Plural",
+    "fr": "nom, masculin, locatif pluriel"
+  },
+  "Об": {
+    "en": "preposition",
+    "de": "Präposition",
+    "fr": "préposition"
+  },
+  "этом": {
+    "en": "pronoun, neuter, prepositional singular",
+    "de": "Pronomen, Neutrum, Präpositiv Singular",
+    "fr": "pronom, neutre, locatif singulier"
+  },
+  "заявила": {
+    "en": "verb, past tense, feminine singular",
+    "de": "Verb, Vergangenheit, feminin Singular",
+    "fr": "verbe, passé, féminin singulier"
+  },
+  "одна": {
+    "en": "pronoun numeral, feminine, nominative singular",
+    "de": "Pronomenzahlwort, feminin, Nominativ Singular",
+    "fr": "pronom numéral, féminin, nominatif singulier"
+  },
+  "из": {
+    "en": "preposition",
+    "de": "Präposition",
+    "fr": "préposition"
+  },
+  "представителей": {
+    "en": "noun, masculine, genitive plural",
+    "de": "Substantiv, maskulin, Genitiv Plural",
+    "fr": "nom, masculin, génitif pluriel"
+  },
+  "российских": {
+    "en": "adjective, plural, genitive",
+    "de": "Adjektiv, Plural, Genitiv",
+    "fr": "adjectif, pluriel, génitif"
+  },
+  "застройщиков": {
+    "en": "noun, masculine, genitive plural",
+    "de": "Substantiv, maskulin, Genitiv Plural",
+    "fr": "nom, masculin, génitif pluriel"
+  },
+  "Бизнесмены": {
+    "en": "noun, masculine, plural, nominative",
+    "de": "Substantiv, maskulin, Plural, Nominativ",
+    "fr": "nom, masculin, pluriel, nominatif"
+  },
+  "уверены": {
+    "en": "short adjective, plural",
+    "de": "Kurzadjektiv, Plural",
+    "fr": "adjectif court, pluriel"
+  },
+  "что": {
+    "en": "conjunction",
+    "de": "Konjunktion",
+    "fr": "conjonction"
+  },
+  "маленькая": {
+    "en": "adjective, feminine, nominative singular",
+    "de": "Adjektiv, feminin, Nominativ Singular",
+    "fr": "adjectif, féminin, nominatif singulier"
+  },
+  "квартира": {
+    "en": "noun, feminine, nominative singular",
+    "de": "Substantiv, feminin, Nominativ Singular",
+    "fr": "nom, féminin, nominatif singulier"
+  },
+  "—": {
+    "en": "dash punctuation",
+    "de": "Gedankenstrich",
+    "fr": "tiret"
+  },
+  "это": {
+    "en": "pronoun",
+    "de": "Pronomen",
+    "fr": "pronom"
+  },
+  "мотивация": {
+    "en": "noun, feminine, nominative singular",
+    "de": "Substantiv, feminin, Nominativ Singular",
+    "fr": "nom, féminin, nominatif singulier"
+  },
+  "для": {
+    "en": "preposition",
+    "de": "Präposition",
+    "fr": "préposition"
+  },
+  "достижения": {
+    "en": "noun, neuter, genitive singular",
+    "de": "Substantiv, Neutrum, Genitiv Singular",
+    "fr": "nom, neutre, génitif singulier"
+  },
+  "целей": {
+    "en": "noun, feminine, genitive plural",
+    "de": "Substantiv, feminin, Genitiv Plural",
+    "fr": "nom, féminin, génitif pluriel"
+  },
+  "а": {
+    "en": "conjunction",
+    "de": "Konjunktion",
+    "fr": "conjonction"
+  },
+  "не": {
+    "en": "particle",
+    "de": "Partikel",
+    "fr": "particule"
+  },
+  "препятствие": {
+    "en": "noun, neuter, nominative singular",
+    "de": "Substantiv, Neutrum, Nominativ Singular",
+    "fr": "nom, neutre, nominatif singulier"
+  },
+  "рождения": {
+    "en": "noun, neuter, genitive singular",
+    "de": "Substantiv, Neutrum, Genitiv Singular",
+    "fr": "nom, neutre, génitif singulier"
+  },
+  "ребёнка": {
+    "en": "noun, masculine, genitive singular",
+    "de": "Substantiv, maskulin, Genitiv Singular",
+    "fr": "nom, masculin, génitif singulier"
+  },
+  "По": {
+    "en": "preposition",
+    "de": "Präposition",
+    "fr": "préposition"
+  },
+  "их": {
+    "en": "possessive pronoun, plural",
+    "de": "Possessivpronomen, Plural",
+    "fr": "pronom possessif, pluriel"
+  },
+  "мнению": {
+    "en": "noun, neuter, dative singular",
+    "de": "Substantiv, Neutrum, Dativ Singular",
+    "fr": "nom, neutre, datif singulier"
+  },
+  "основным": {
+    "en": "adjective, neuter, instrumental singular",
+    "de": "Adjektiv, Neutrum, Instrumental Singular",
+    "fr": "adjectif, neutre, instrumental singulier"
+  },
+  "препятствием": {
+    "en": "noun, neuter, instrumental singular",
+    "de": "Substantiv, Neutrum, Instrumental Singular",
+    "fr": "nom, neutre, instrumental singulier"
+  },
+  "роста": {
+    "en": "noun, masculine, genitive singular",
+    "de": "Substantiv, maskulin, Genitiv Singular",
+    "fr": "nom, masculin, génitif singulier"
+  },
+  "демографии": {
+    "en": "noun, feminine, genitive singular",
+    "de": "Substantiv, feminin, Genitiv Singular",
+    "fr": "nom, féminin, génitif singulier"
+  },
+  "являются": {
+    "en": "verb, present tense, plural",
+    "de": "Verb, Präsens, Plural",
+    "fr": "verbe, présent, pluriel"
+  },
+  "маленькие": {
+    "en": "adjective, plural, nominative",
+    "de": "Adjektiv, Plural, Nominativ",
+    "fr": "adjectif, pluriel, nominatif"
+  },
+  "квартиры": {
+    "en": "noun, feminine, plural, nominative",
+    "de": "Substantiv, feminin, Plural, Nominativ",
+    "fr": "nom, féminin, pluriel, nominatif"
+  },
+  "отсутствие": {
+    "en": "noun, neuter, nominative singular",
+    "de": "Substantiv, Neutrum, Nominativ Singular",
+    "fr": "nom, neutre, nominatif singulier"
+  },
+  "у": {
+    "en": "preposition",
+    "de": "Präposition",
+    "fr": "préposition"
+  },
+  "граждан": {
+    "en": "noun, masculine, genitive plural",
+    "de": "Substantiv, maskulin, Genitiv Plural",
+    "fr": "nom, masculin, génitif pluriel"
+  },
+  "завести": {
+    "en": "verb, infinitive",
+    "de": "Verb, Infinitiv",
+    "fr": "verbe, infinitif"
+  },
+  "хотя": {
+    "en": "particle",
+    "de": "Partikel",
+    "fr": "particule"
+  },
+  "бы": {
+    "en": "particle",
+    "de": "Partikel",
+    "fr": "particule"
+  },
+  "первого": {
+    "en": "ordinal numeral, masculine, genitive singular",
+    "de": "Ordinalzahl, maskulin, Genitiv Singular",
+    "fr": "numéral ordinal, masculin, génitif singulier"
+  }
+}

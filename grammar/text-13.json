@@ -1,0 +1,92 @@
+{
+  "В": {
+    "en": "preposition",
+    "de": "Präposition",
+    "fr": "préposition"
+  },
+  "своей": {
+    "en": "possessive pronoun, feminine, prepositional singular",
+    "de": "Possessivpronomen, feminin, Präpositiv Singular",
+    "fr": "pronom possessif, féminin, locatif singulier"
+  },
+  "книге": {
+    "en": "noun, feminine, prepositional singular",
+    "de": "Substantiv, feminin, Präpositiv Singular",
+    "fr": "nom, féminin, locatif singulier"
+  },
+  "писатель": {
+    "en": "noun, masculine, nominative singular",
+    "de": "Substantiv, maskulin, Nominativ Singular",
+    "fr": "nom, masculin, nominatif singulier"
+  },
+  "и": {
+    "en": "conjunction",
+    "de": "Konjunktion",
+    "fr": "conjonction"
+  },
+  "журналист": {
+    "en": "noun, masculine, nominative singular",
+    "de": "Substantiv, maskulin, Nominativ Singular",
+    "fr": "nom, masculin, nominatif singulier"
+  },
+  "Лев": {
+    "en": "proper noun, masculine, nominative singular",
+    "de": "Eigenname, maskulin, Nominativ Singular",
+    "fr": "nom propre, masculin, nominatif singulier"
+  },
+  "Данилкин": {
+    "en": "proper noun, masculine, nominative singular",
+    "de": "Eigenname, maskulin, Nominativ Singular",
+    "fr": "nom propre, masculin, nominatif singulier"
+  },
+  "который": {
+    "en": "relative pronoun, masculine, nominative singular",
+    "de": "Relativpronomen, maskulin, Nominativ Singular",
+    "fr": "pronom relatif, masculin, nominatif singulier"
+  },
+  "известен": {
+    "en": "short adjective, masculine singular",
+    "de": "Kurzadjektiv, maskulin Singular",
+    "fr": "adjectif court, masculin singulier"
+  },
+  "своим": {
+    "en": "possessive pronoun, masculine, instrumental singular",
+    "de": "Possessivpronomen, maskulin, Instrumental Singular",
+    "fr": "pronom possessif, masculin, instrumental singulier"
+  },
+  "новаторским": {
+    "en": "adjective, masculine, instrumental singular",
+    "de": "Adjektiv, maskulin, Instrumental Singular",
+    "fr": "adjectif, masculin, instrumental singulier"
+  },
+  "подходом": {
+    "en": "noun, masculine, instrumental singular",
+    "de": "Substantiv, maskulin, Instrumental Singular",
+    "fr": "nom, masculin, instrumental singulier"
+  },
+  "к": {
+    "en": "preposition",
+    "de": "Präposition",
+    "fr": "préposition"
+  },
+  "составлению": {
+    "en": "noun, neuter, dative singular",
+    "de": "Substantiv, Neutrum, Dativ Singular",
+    "fr": "nom, neutre, datif singulier"
+  },
+  "биографий": {
+    "en": "noun, feminine, genitive plural",
+    "de": "Substantiv, feminin, Genitiv Plural",
+    "fr": "nom, féminin, génitif pluriel"
+  },
+  "известных": {
+    "en": "adjective, plural, genitive",
+    "de": "Adjektiv, Plural, Genitiv",
+    "fr": "adjectif, pluriel, génitif"
+  },
+  "людей": {
+    "en": "noun, masculine, genitive plural",
+    "de": "Substantiv, maskulin, Genitiv Plural",
+    "fr": "nom, masculin, génitif pluriel"
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "Чехов": {
+    "en": "Chekhov",
+    "de": "Tschechow",
+    "fr": "Tchekhov"
+  },
+  "«Дачники»": {
+    "en": "Summer Residents",
+    "de": "Sommergäste",
+    "fr": "Les Estivants"
+  },
+  "Из-за": {
+    "en": "from behind",
+    "de": "hinter",
+    "fr": "de derrière"
+  },
+  "облака": {
+    "en": "cloud",
+    "de": "Wolke",
+    "fr": "nuage"
+  },
+  "опять": {
+    "en": "again",
+    "de": "wieder",
+    "fr": "encore"
+  },
+  "выплыла": {
+    "en": "emerged",
+    "de": "erschien",
+    "fr": "apparut"
+  },
+  "луна": {
+    "en": "moon",
+    "de": "Mond",
+    "fr": "lune"
+  },
+  "Казалось": {
+    "en": "it seemed",
+    "de": "es schien",
+    "fr": "il semblait"
+  },
+  "она": {
+    "en": "she",
+    "de": "sie",
+    "fr": "elle"
+  },
+  "улыбалась": {
+    "en": "smiled",
+    "de": "lächelte",
+    "fr": "souriait"
+  },
+  "казалось": {
+    "en": "it seemed",
+    "de": "es schien",
+    "fr": "il semblait"
+  },
+  "ей": {
+    "en": "to her",
+    "de": "ihr",
+    "fr": "à elle"
+  },
+  "было": {
+    "en": "was",
+    "de": "war",
+    "fr": "était"
+  },
+  "приятно": {
+    "en": "pleasant",
+    "de": "angenehm",
+    "fr": "agréable"
+  },
+  "что": {
+    "en": "that",
+    "de": "dass",
+    "fr": "que"
+  },
+  "у": {
+    "en": "at",
+    "de": "bei",
+    "fr": "chez"
+  },
+  "нее": {
+    "en": "her",
+    "de": "ihr",
+    "fr": "elle"
+  },
+  "нет": {
+    "en": "there are no",
+    "de": "es gibt keine",
+    "fr": "il n'y a pas"
+  },
+  "родственников": {
+    "en": "relatives",
+    "de": "Verwandte",
+    "fr": "parents"
+  },
+  "А": {
+    "en": "and",
+    "de": "und",
+    "fr": "et"
+  },
+  "Саша": {
+    "en": "Sasha",
+    "de": "Sascha",
+    "fr": "Sacha"
+  },
+  "отвернулся": {
+    "en": "turned away",
+    "de": "wandte sich ab",
+    "fr": "se détourna"
+  },
+  "чтобы": {
+    "en": "in order to",
+    "de": "um zu",
+    "fr": "afin de"
+  },
+  "скрыть": {
+    "en": "hide",
+    "de": "verbergen",
+    "fr": "cacher"
+  },
+  "от": {
+    "en": "from",
+    "de": "vor",
+    "fr": "de"
+  },
+  "гостей": {
+    "en": "guests",
+    "de": "Gästen",
+    "fr": "invités"
+  },
+  "свое": {
+    "en": "his",
+    "de": "sein",
+    "fr": "son"
+  },
+  "сердитое": {
+    "en": "angry",
+    "de": "wütendes",
+    "fr": "fâché"
+  },
+  "отчаянное": {
+    "en": "desperate",
+    "de": "verzweifeltes",
+    "fr": "désespéré"
+  },
+  "лицо": {
+    "en": "face",
+    "de": "Gesicht",
+    "fr": "visage"
+  },
+  "и": {
+    "en": "and",
+    "de": "und",
+    "fr": "et"
+  },
+  "сказал": {
+    "en": "said",
+    "de": "sagte",
+    "fr": "dit"
+  },
+  "придавая": {
+    "en": "giving",
+    "de": "verleihend",
+    "fr": "donnant"
+  },
+  "голосу": {
+    "en": "voice",
+    "de": "Stimme",
+    "fr": "voix"
+  },
+  "радостное": {
+    "en": "joyful",
+    "de": "freudiges",
+    "fr": "joyeux"
+  },
+  "благодушное": {
+    "en": "good-natured",
+    "de": "gutmütiges",
+    "fr": "bienveillant"
+  },
+  "выражение": {
+    "en": "expression",
+    "de": "Ausdruck",
+    "fr": "expression"
+  },
+  "Милости": {
+    "en": "welcome",
+    "de": "willkommen",
+    "fr": "bienvenue"
+  },
+  "просим": {
+    "en": "we ask",
+    "de": "wir bitten",
+    "fr": "nous demandons"
+  },
+  "дорогие": {
+    "en": "dear",
+    "de": "liebe",
+    "fr": "chers"
+  },
+  "гости": {
+    "en": "guests",
+    "de": "Gäste",
+    "fr": "invités"
+  },
+  "en": "Chekhov. “Summer Residents.” From behind the cloud the moon emerged again. It seemed that she was smiling; it seemed she was pleased that she had no relatives. And Sasha turned away to hide his angry, desperate face from the guests and said, giving his voice a joyful, good-natured expression: “Welcome! Welcome, dear guests!”",
+  "de": "Tschechow „Sommergäste“. Hinter der Wolke erschien wieder der Mond. Es schien, als würde er lächeln; es schien ihm angenehm zu sein, keine Verwandten zu haben. Und Sascha wandte sich ab, um vor den Gästen sein wütendes, verzweifeltes Gesicht zu verbergen, und sagte mit freudigem, gutmütigem Ausdruck in der Stimme: „Willkommen! Willkommen, liebe Gäste!“",
+  "fr": "Tchekhov « Les Estivants ». La lune réapparut derrière le nuage. Il semblait qu’elle souriait ; il semblait qu’elle était heureuse de ne pas avoir de proches. Et Sacha se détourna pour cacher aux invités son visage furieux et désespéré, puis dit d’une voix joyeuse et bienveillante : « Soyez les bienvenus ! Soyez les bienvenus, chers invités ! »"
+}

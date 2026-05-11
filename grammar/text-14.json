@@ -1,0 +1,222 @@
+{
+  "Когда-то": {
+    "en": "adverb",
+    "de": "Adverb",
+    "fr": "adverbe"
+  },
+  "рядом": {
+    "en": "adverb",
+    "de": "Adverb",
+    "fr": "adverbe"
+  },
+  "с": {
+    "en": "preposition",
+    "de": "Präposition",
+    "fr": "préposition"
+  },
+  "Москвой": {
+    "en": "proper noun, feminine, instrumental singular",
+    "de": "Eigenname, feminin, Instrumental Singular",
+    "fr": "nom propre, féminin, instrumental singulier"
+  },
+  "находились": {
+    "en": "verb, past tense, plural",
+    "de": "Verb, Vergangenheit, Plural",
+    "fr": "verbe, passé, pluriel"
+  },
+  "две": {
+    "en": "numeral, feminine, nominative",
+    "de": "Numerale, feminin, Nominativ",
+    "fr": "numéral, féminin, nominatif"
+  },
+  "деревни": {
+    "en": "noun, feminine, plural, nominative",
+    "de": "Substantiv, feminin, Plural, Nominativ",
+    "fr": "nom, féminin, pluriel, nominatif"
+  },
+  "названием": {
+    "en": "noun, neuter, instrumental singular",
+    "de": "Substantiv, Neutrum, Instrumental Singular",
+    "fr": "nom, neutre, instrumental singulier"
+  },
+  "Марьино": {
+    "en": "proper noun, neuter, indeclinable",
+    "de": "Eigenname, Neutrum, indeklinabel",
+    "fr": "nom propre, neutre, indéclinable"
+  },
+  "Одна": {
+    "en": "pronoun numeral, feminine, nominative singular",
+    "de": "Pronomenzahlwort, feminin, Nominativ Singular",
+    "fr": "pronom numéral, féminin, nominatif singulier"
+  },
+  "из": {
+    "en": "preposition",
+    "de": "Präposition",
+    "fr": "préposition"
+  },
+  "них": {
+    "en": "pronoun, plural, genitive",
+    "de": "Pronomen, Plural, Genitiv",
+    "fr": "pronom, pluriel, génitif"
+  },
+  "располагалась": {
+    "en": "verb, past tense, feminine singular",
+    "de": "Verb, Vergangenheit, feminin Singular",
+    "fr": "verbe, passé, féminin singulier"
+  },
+  "на": {
+    "en": "preposition",
+    "de": "Präposition",
+    "fr": "préposition"
+  },
+  "юго-востоке": {
+    "en": "noun, masculine, prepositional singular",
+    "de": "Substantiv, maskulin, Präpositiv Singular",
+    "fr": "nom, masculin, locatif singulier"
+  },
+  "другая": {
+    "en": "pronoun adjective, feminine, nominative singular",
+    "de": "Pronomenadjektiv, feminin, Nominativ Singular",
+    "fr": "pronom adjectival, féminin, nominatif singulier"
+  },
+  "—": {
+    "en": "dash punctuation",
+    "de": "Gedankenstrich",
+    "fr": "tiret"
+  },
+  "северо-востоке": {
+    "en": "noun, masculine, prepositional singular",
+    "de": "Substantiv, maskulin, Präpositiv Singular",
+    "fr": "nom, masculin, locatif singulier"
+  },
+  "Истории": {
+    "en": "noun, feminine, plural, nominative",
+    "de": "Substantiv, feminin, Plural, Nominativ",
+    "fr": "nom, féminin, pluriel, nominatif"
+  },
+  "этих": {
+    "en": "demonstrative pronoun, plural, genitive",
+    "de": "Demonstrativpronomen, Plural, Genitiv",
+    "fr": "pronom démonstratif, pluriel, génitif"
+  },
+  "немного": {
+    "en": "adverb",
+    "de": "Adverb",
+    "fr": "adverbe"
+  },
+  "похожи": {
+    "en": "short adjective, plural",
+    "de": "Kurzadjektiv, Plural",
+    "fr": "adjectif court, pluriel"
+  },
+  "а": {
+    "en": "conjunction",
+    "de": "Konjunktion",
+    "fr": "conjonction"
+  },
+  "может": {
+    "en": "verb, present tense, singular",
+    "de": "Verb, Präsens, Singular",
+    "fr": "verbe, présent, singulier"
+  },
+  "и": {
+    "en": "conjunction",
+    "de": "Konjunktion",
+    "fr": "conjonction"
+  },
+  "нет": {
+    "en": "particle",
+    "de": "Partikel",
+    "fr": "particule"
+  },
+  "но": {
+    "en": "conjunction",
+    "de": "Konjunktion",
+    "fr": "conjonction"
+  },
+  "сейчас": {
+    "en": "adverb",
+    "de": "Adverb",
+    "fr": "adverbe"
+  },
+  "они": {
+    "en": "personal pronoun, plural, nominative",
+    "de": "Personalpronomen, Plural, Nominativ",
+    "fr": "pronom personnel, pluriel, nominatif"
+  },
+  "обе": {
+    "en": "numeral pronoun, feminine, nominative plural",
+    "de": "Numeralpronomen, feminin, Nominativ Plural",
+    "fr": "pronom numéral, féminin, nominatif pluriel"
+  },
+  "вошли": {
+    "en": "verb, past tense, plural",
+    "de": "Verb, Vergangenheit, Plural",
+    "fr": "verbe, passé, pluriel"
+  },
+  "в": {
+    "en": "preposition",
+    "de": "Präposition",
+    "fr": "préposition"
+  },
+  "состав": {
+    "en": "noun, masculine, accusative singular",
+    "de": "Substantiv, maskulin, Akkusativ Singular",
+    "fr": "nom, masculin, accusatif singulier"
+  },
+  "одного": {
+    "en": "numeral adjective, masculine, genitive singular",
+    "de": "Numeraladjektiv, maskulin, Genitiv Singular",
+    "fr": "adjectif numéral, masculin, génitif singulier"
+  },
+  "города": {
+    "en": "noun, masculine, genitive singular",
+    "de": "Substantiv, maskulin, Genitiv Singular",
+    "fr": "nom, masculin, génitif singulier"
+  },
+  "–": {
+    "en": "dash punctuation",
+    "de": "Gedankenstrich",
+    "fr": "tiret"
+  },
+  "Москва": {
+    "en": "proper noun, feminine, nominative singular",
+    "de": "Eigenname, feminin, Nominativ Singular",
+    "fr": "nom propre, féminin, nominatif singulier"
+  },
+  "честь": {
+    "en": "noun, feminine, accusative singular",
+    "de": "Substantiv, feminin, Akkusativ Singular",
+    "fr": "nom, féminin, accusatif singulier"
+  },
+  "назвали": {
+    "en": "verb, past tense, plural",
+    "de": "Verb, Vergangenheit, Plural",
+    "fr": "verbe, passé, pluriel"
+  },
+  "станции": {
+    "en": "noun, feminine, plural, accusative",
+    "de": "Substantiv, feminin, Plural, Akkusativ",
+    "fr": "nom, féminin, pluriel, accusatif"
+  },
+  "метро": {
+    "en": "noun, neuter, indeclinable",
+    "de": "Substantiv, Neutrum, indeklinabel",
+    "fr": "nom, neutre, indéclinable"
+  },
+  "«Марьина": {
+    "en": "proper noun with quotation mark, feminine",
+    "de": "Eigenname mit Anführungszeichen, feminin",
+    "fr": "nom propre avec guillemet, féminin"
+  },
+  "роща»": {
+    "en": "noun with quotation mark, feminine, nominative singular",
+    "de": "Substantiv mit Anführungszeichen, feminin, Nominativ Singular",
+    "fr": "nom avec guillemet, féminin, nominatif singulier"
+  },
+  "«Марьино»": {
+    "en": "proper noun with quotation marks, neuter",
+    "de": "Eigenname mit Anführungszeichen, Neutrum",
+    "fr": "nom propre avec guillemets, neutre"
+  }
+}

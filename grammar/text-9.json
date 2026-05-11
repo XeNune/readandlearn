@@ -1,0 +1,307 @@
+{
+  "В": {
+    "en": "preposition",
+    "de": "Präposition",
+    "fr": "préposition"
+  },
+  "январе": {
+    "en": "noun, masculine, prepositional singular",
+    "de": "Substantiv, maskulin, Präpositiv Singular",
+    "fr": "nom, masculin, locatif singulier"
+  },
+  "2022": {
+    "en": "numeral",
+    "de": "Numerale",
+    "fr": "numéral"
+  },
+  "года": {
+    "en": "noun, masculine, genitive singular",
+    "de": "Substantiv, maskulin, Genitiv Singular",
+    "fr": "nom, masculin, génitif singulier"
+  },
+  "в": {
+    "en": "preposition",
+    "de": "Präposition",
+    "fr": "préposition"
+  },
+  "Государственном": {
+    "en": "adjective, masculine, prepositional singular",
+    "de": "Adjektiv, maskulin, Präpositiv Singular",
+    "fr": "adjectif, masculin, locatif singulier"
+  },
+  "Эрмитаже": {
+    "en": "proper noun, masculine, prepositional singular",
+    "de": "Eigenname, maskulin, Präpositiv Singular",
+    "fr": "nom propre, masculin, locatif singulier"
+  },
+  "состоялось": {
+    "en": "verb, past tense, neuter singular",
+    "de": "Verb, Vergangenheit, Neutrum Singular",
+    "fr": "verbe, passé, neutre singulier"
+  },
+  "открытие": {
+    "en": "noun, neuter, nominative singular",
+    "de": "Substantiv, Neutrum, Nominativ Singular",
+    "fr": "nom, neutre, nominatif singulier"
+  },
+  "постоянной": {
+    "en": "adjective, feminine, genitive singular",
+    "de": "Adjektiv, feminin, Genitiv Singular",
+    "fr": "adjectif, féminin, génitif singulier"
+  },
+  "выставки": {
+    "en": "noun, feminine, genitive singular",
+    "de": "Substantiv, feminin, Genitiv Singular",
+    "fr": "nom, féminin, génitif singulier"
+  },
+  "посвященной": {
+    "en": "participle, feminine, genitive singular",
+    "de": "Partizip, feminin, Genitiv Singular",
+    "fr": "participe, féminin, génitif singulier"
+  },
+  "первому": {
+    "en": "ordinal numeral, masculine, dative singular",
+    "de": "Ordinalzahl, maskulin, Dativ Singular",
+    "fr": "numéral ordinal, masculin, datif singulier"
+  },
+  "российскому": {
+    "en": "adjective, masculine, dative singular",
+    "de": "Adjektiv, maskulin, Dativ Singular",
+    "fr": "adjectif, masculin, datif singulier"
+  },
+  "императору": {
+    "en": "noun, masculine, dative singular",
+    "de": "Substantiv, maskulin, Dativ Singular",
+    "fr": "nom, masculin, datif singulier"
+  },
+  "Продолжена": {
+    "en": "short participle, feminine singular, past",
+    "de": "Kurzpartizip, feminin Singular, Vergangenheit",
+    "fr": "participe court, féminin singulier, passé"
+  },
+  "традиция": {
+    "en": "noun, feminine, nominative singular",
+    "de": "Substantiv, feminin, Nominativ Singular",
+    "fr": "nom, féminin, nominatif singulier"
+  },
+  "начатая": {
+    "en": "participle, feminine, nominative singular",
+    "de": "Partizip, feminin, Nominativ Singular",
+    "fr": "participe, féminin, nominatif singulier"
+  },
+  "еще": {
+    "en": "adverb",
+    "de": "Adverb",
+    "fr": "adverbe"
+  },
+  "императором": {
+    "en": "noun, masculine, instrumental singular",
+    "de": "Substantiv, maskulin, Instrumental Singular",
+    "fr": "nom, masculin, instrumental singulier"
+  },
+  "Николаем": {
+    "en": "proper noun, masculine, instrumental singular",
+    "de": "Eigenname, maskulin, Instrumental Singular",
+    "fr": "nom propre, masculin, instrumental singulier"
+  },
+  "I": {
+    "en": "Roman numeral",
+    "de": "Römische Zahl",
+    "fr": "chiffre romain"
+  },
+  "для": {
+    "en": "preposition",
+    "de": "Präposition",
+    "fr": "préposition"
+  },
+  "которого": {
+    "en": "relative pronoun, masculine, genitive singular",
+    "de": "Relativpronomen, maskulin, Genitiv Singular",
+    "fr": "pronom relatif, masculin, génitif singulier"
+  },
+  "Петр": {
+    "en": "proper noun, masculine, nominative singular",
+    "de": "Eigenname, maskulin, Nominativ Singular",
+    "fr": "nom propre, masculin, nominatif singulier"
+  },
+  "был": {
+    "en": "verb, past tense, masculine singular",
+    "de": "Verb, Vergangenheit, maskulin Singular",
+    "fr": "verbe, passé, masculin singulier"
+  },
+  "кумиром": {
+    "en": "noun, masculine, instrumental singular",
+    "de": "Substantiv, maskulin, Instrumental Singular",
+    "fr": "nom, masculin, instrumental singulier"
+  },
+  "и": {
+    "en": "conjunction",
+    "de": "Konjunktion",
+    "fr": "conjonction"
+  },
+  "образцом": {
+    "en": "noun, masculine, instrumental singular",
+    "de": "Substantiv, maskulin, Instrumental Singular",
+    "fr": "nom, masculin, instrumental singulier"
+  },
+  "подражания": {
+    "en": "noun, neuter, genitive singular",
+    "de": "Substantiv, Neutrum, Genitiv Singular",
+    "fr": "nom, neutre, génitif singulier"
+  },
+  "Оба": {
+    "en": "pronoun, plural",
+    "de": "Pronomen, Plural",
+    "fr": "pronom, pluriel"
+  },
+  "они": {
+    "en": "personal pronoun, plural",
+    "de": "Personalpronomen, Plural",
+    "fr": "pronom personnel, pluriel"
+  },
+  "многое": {
+    "en": "pronoun, neuter singular",
+    "de": "Pronomen, Neutrum Singular",
+    "fr": "pronom, neutre singulier"
+  },
+  "сделали": {
+    "en": "verb, past tense, plural",
+    "de": "Verb, Vergangenheit, Plural",
+    "fr": "verbe, passé, pluriel"
+  },
+  "чтобы": {
+    "en": "conjunction",
+    "de": "Konjunktion",
+    "fr": "conjonction"
+  },
+  "Россия": {
+    "en": "proper noun, feminine, nominative singular",
+    "de": "Eigenname, feminin, Nominativ Singular",
+    "fr": "nom propre, féminin, nominatif singulier"
+  },
+  "развивалась": {
+    "en": "verb, past tense, feminine singular",
+    "de": "Verb, Vergangenheit, feminin Singular",
+    "fr": "verbe, passé, féminin singulier"
+  },
+  "была": {
+    "en": "verb, past tense, feminine singular",
+    "de": "Verb, Vergangenheit, feminin Singular",
+    "fr": "verbe, passé, féminin singulier"
+  },
+  "сильным": {
+    "en": "adjective, masculine, instrumental singular",
+    "de": "Adjektiv, maskulin, Instrumental Singular",
+    "fr": "adjectif, masculin, instrumental singulier"
+  },
+  "государством": {
+    "en": "noun, neuter, instrumental singular",
+    "de": "Substantiv, Neutrum, Instrumental Singular",
+    "fr": "nom, neutre, instrumental singulier"
+  },
+  "великой": {
+    "en": "adjective, feminine, instrumental singular",
+    "de": "Adjektiv, feminin, Instrumental Singular",
+    "fr": "adjectif, féminin, instrumental singulier"
+  },
+  "державой": {
+    "en": "noun, feminine, instrumental singular",
+    "de": "Substantiv, feminin, Instrumental Singular",
+    "fr": "nom, féminin, instrumental singulier"
+  },
+  "Один": {
+    "en": "numeral, masculine singular",
+    "de": "Numerale, maskulin Singular",
+    "fr": "numéral, masculin singulier"
+  },
+  "только": {
+    "en": "particle",
+    "de": "Partikel",
+    "fr": "particule"
+  },
+  "пример": {
+    "en": "noun, masculine, nominative singular",
+    "de": "Substantiv, maskulin, Nominativ Singular",
+    "fr": "nom, masculin, nominatif singulier"
+  },
+  "если": {
+    "en": "conjunction",
+    "de": "Konjunktion",
+    "fr": "conjonction"
+  },
+  "Великий": {
+    "en": "adjective, masculine, nominative singular",
+    "de": "Adjektiv, maskulin, Nominativ Singular",
+    "fr": "adjectif, masculin, nominatif singulier"
+  },
+  "прародителем": {
+    "en": "noun, masculine, instrumental singular",
+    "de": "Substantiv, maskulin, Instrumental Singular",
+    "fr": "nom, masculin, instrumental singulier"
+  },
+  "создания": {
+    "en": "noun, neuter, genitive singular",
+    "de": "Substantiv, Neutrum, Genitiv Singular",
+    "fr": "nom, neutre, génitif singulier"
+  },
+  "флота": {
+    "en": "noun, masculine, genitive singular",
+    "de": "Substantiv, maskulin, Genitiv Singular",
+    "fr": "nom, masculin, génitif singulier"
+  },
+  "российского": {
+    "en": "adjective, masculine, genitive singular",
+    "de": "Adjektiv, maskulin, Genitiv Singular",
+    "fr": "adjectif, masculin, génitif singulier"
+  },
+  "то": {
+    "en": "particle",
+    "de": "Partikel",
+    "fr": "particule"
+  },
+  "заслуга": {
+    "en": "noun, feminine, nominative singular",
+    "de": "Substantiv, feminin, Nominativ Singular",
+    "fr": "nom, féminin, nominatif singulier"
+  },
+  "Николая": {
+    "en": "proper noun, masculine, genitive singular",
+    "de": "Eigenname, maskulin, Genitiv Singular",
+    "fr": "nom propre, masculin, génitif singulier"
+  },
+  "развитии": {
+    "en": "noun, neuter, prepositional singular",
+    "de": "Substantiv, Neutrum, Präpositiv Singular",
+    "fr": "nom, neutre, locatif singulier"
+  },
+  "инженерного": {
+    "en": "adjective, neuter, genitive singular",
+    "de": "Adjektiv, Neutrum, Genitiv Singular",
+    "fr": "adjectif, neutre, génitif singulier"
+  },
+  "дела": {
+    "en": "noun, neuter, genitive singular",
+    "de": "Substantiv, Neutrum, Genitiv Singular",
+    "fr": "nom, neutre, génitif singulier"
+  },
+  "России": {
+    "en": "proper noun, feminine, prepositional singular",
+    "de": "Eigenname, feminin, Präpositiv Singular",
+    "fr": "nom propre, féminin, locatif singulier"
+  },
+  "создание": {
+    "en": "noun, neuter, nominative singular",
+    "de": "Substantiv, Neutrum, Nominativ Singular",
+    "fr": "nom, neutre, nominatif singulier"
+  },
+  "железных": {
+    "en": "adjective, plural, genitive",
+    "de": "Adjektiv, Plural, Genitiv",
+    "fr": "adjectif, pluriel, génitif"
+  },
+  "дорог": {
+    "en": "noun, feminine, genitive plural",
+    "de": "Substantiv, feminin, Genitiv Plural",
+    "fr": "nom, féminin, génitif pluriel"
+  }
+}

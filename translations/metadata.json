@@ -38,5 +38,35 @@
     "title": "Отрывок из пьесы А. П. Чехова «Чайка»",
     "wordCount": 63,
     "languages": ["English", "German", "French"]
+  },
+  "9": {
+    "title": "Петр I и Николай I в истории России",
+    "wordCount": 71,
+    "languages": ["English", "German", "French"]
+  },
+  "10": {
+    "title": "Водка Trump от завода Кристалл",
+    "wordCount": 48,
+    "languages": ["English", "German", "French"]
+  },
+  "11": {
+    "title": "Отрывок из «Дачников» Чехова",
+    "wordCount": 45,
+    "languages": ["English", "German", "French"]
+  },
+  "12": {
+    "title": "Маленькие квартиры и демография",
+    "wordCount": 54,
+    "languages": ["English", "German", "French"]
+  },
+  "13": {
+    "title": "Книга о Юрии Гагарине",
+    "wordCount": 87,
+    "languages": ["English", "German", "French"]
+  },
+  "14": {
+    "title": "История Марьино и Марьиной рощи",
+    "wordCount": 41,
+    "languages": ["English", "German", "French"]
   }
 }

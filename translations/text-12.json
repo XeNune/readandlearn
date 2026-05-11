@@ -1,0 +1,255 @@
+{
+  "Россияне": {
+    "en": "Russians",
+    "de": "Russen",
+    "fr": "Russes"
+  },
+  "могут": {
+    "en": "can",
+    "de": "können",
+    "fr": "peuvent"
+  },
+  "строить": {
+    "en": "build",
+    "de": "aufbauen",
+    "fr": "construire"
+  },
+  "семью": {
+    "en": "family",
+    "de": "Familie",
+    "fr": "famille"
+  },
+  "и": {
+    "en": "and",
+    "de": "und",
+    "fr": "et"
+  },
+  "на": {
+    "en": "on",
+    "de": "auf",
+    "fr": "sur"
+  },
+  "«25": {
+    "en": "\"25",
+    "de": "\"25",
+    "fr": "\"25"
+  },
+  "квадратных": {
+    "en": "square",
+    "de": "Quadrat-",
+    "fr": "carrés"
+  },
+  "метрах»": {
+    "en": "meters\"",
+    "de": "Metern\"",
+    "fr": "mètres\""
+  },
+  "Об": {
+    "en": "About",
+    "de": "Darüber",
+    "fr": "À propos"
+  },
+  "этом": {
+    "en": "this",
+    "de": "dies",
+    "fr": "cela"
+  },
+  "заявила": {
+    "en": "stated",
+    "de": "erklärte",
+    "fr": "a déclaré"
+  },
+  "одна": {
+    "en": "one",
+    "de": "eine",
+    "fr": "une"
+  },
+  "из": {
+    "en": "of",
+    "de": "von",
+    "fr": "de"
+  },
+  "представителей": {
+    "en": "representatives",
+    "de": "Vertreter",
+    "fr": "représentants"
+  },
+  "российских": {
+    "en": "Russian",
+    "de": "russischen",
+    "fr": "russes"
+  },
+  "застройщиков": {
+    "en": "developers",
+    "de": "Bauträger",
+    "fr": "promoteurs"
+  },
+  "Бизнесмены": {
+    "en": "Businessmen",
+    "de": "Geschäftsleute",
+    "fr": "Hommes d'affaires"
+  },
+  "уверены": {
+    "en": "are sure",
+    "de": "sind sicher",
+    "fr": "sont convaincus"
+  },
+  "что": {
+    "en": "that",
+    "de": "dass",
+    "fr": "que"
+  },
+  "маленькая": {
+    "en": "small",
+    "de": "kleine",
+    "fr": "petit"
+  },
+  "квартира": {
+    "en": "apartment",
+    "de": "Wohnung",
+    "fr": "appartement"
+  },
+  "—": {
+    "en": "—",
+    "de": "—",
+    "fr": "—"
+  },
+  "это": {
+    "en": "this",
+    "de": "das",
+    "fr": "c'est"
+  },
+  "мотивация": {
+    "en": "motivation",
+    "de": "Motivation",
+    "fr": "motivation"
+  },
+  "для": {
+    "en": "for",
+    "de": "für",
+    "fr": "pour"
+  },
+  "достижения": {
+    "en": "achievement",
+    "de": "Erreichung",
+    "fr": "réalisation"
+  },
+  "целей": {
+    "en": "goals",
+    "de": "Ziele",
+    "fr": "objectifs"
+  },
+  "а": {
+    "en": "but",
+    "de": "sondern",
+    "fr": "mais"
+  },
+  "не": {
+    "en": "not",
+    "de": "nicht",
+    "fr": "ne"
+  },
+  "препятствие": {
+    "en": "obstacle",
+    "de": "Hindernis",
+    "fr": "obstacle"
+  },
+  "рождения": {
+    "en": "birth",
+    "de": "Geburt",
+    "fr": "naissance"
+  },
+  "ребёнка": {
+    "en": "child",
+    "de": "Kindes",
+    "fr": "enfant"
+  },
+  "По": {
+    "en": "According to",
+    "de": "Nach",
+    "fr": "Selon"
+  },
+  "их": {
+    "en": "their",
+    "de": "ihrer",
+    "fr": "leur"
+  },
+  "мнению": {
+    "en": "opinion",
+    "de": "Meinung",
+    "fr": "avis"
+  },
+  "основным": {
+    "en": "main",
+    "de": "hauptsächlichen",
+    "fr": "principal"
+  },
+  "препятствием": {
+    "en": "obstacle",
+    "de": "Hindernis",
+    "fr": "obstacle"
+  },
+  "роста": {
+    "en": "growth",
+    "de": "Wachstums",
+    "fr": "croissance"
+  },
+  "демографии": {
+    "en": "demography",
+    "de": "Demografie",
+    "fr": "démographie"
+  },
+  "являются": {
+    "en": "are",
+    "de": "sind",
+    "fr": "sont"
+  },
+  "маленькие": {
+    "en": "small",
+    "de": "kleine",
+    "fr": "petits"
+  },
+  "квартиры": {
+    "en": "apartments",
+    "de": "Wohnungen",
+    "fr": "appartements"
+  },
+  "отсутствие": {
+    "en": "absence",
+    "de": "Fehlen",
+    "fr": "absence"
+  },
+  "у": {
+    "en": "among",
+    "de": "bei",
+    "fr": "chez"
+  },
+  "граждан": {
+    "en": "citizens",
+    "de": "Bürgern",
+    "fr": "citoyens"
+  },
+  "завести": {
+    "en": "have",
+    "de": "bekommen",
+    "fr": "avoir"
+  },
+  "хотя": {
+    "en": "at least",
+    "de": "wenigstens",
+    "fr": "au moins"
+  },
+  "бы": {
+    "en": "particle",
+    "de": "Partikel",
+    "fr": "particule"
+  },
+  "первого": {
+    "en": "first",
+    "de": "ersten",
+    "fr": "premier"
+  },
+  "en": "Russians can build a family even in “25 square meters.” This was stated by one of the representatives of Russian developers. Businesspeople are convinced that a small apartment is motivation to achieve goals rather than an obstacle to having a child. In their opinion, the main obstacle to demographic growth is not small apartments, but the lack of motivation among citizens to have at least a first child.",
+  "de": "Russen können auch auf „25 Quadratmetern“ eine Familie gründen. Das erklärte eine Vertreterin russischer Bauträger. Geschäftsleute sind überzeugt, dass eine kleine Wohnung eine Motivation zum Erreichen von Zielen ist und kein Hindernis für die Geburt eines Kindes. Ihrer Meinung nach sind nicht kleine Wohnungen das Hauptproblem für das Bevölkerungswachstum, sondern der Mangel an Motivation der Bürger, wenigstens ein erstes Kind zu bekommen.",
+  "fr": "Les Russes peuvent fonder une famille même dans « 25 mètres carrés ». C’est ce qu’a déclaré l’une des représentantes des promoteurs immobiliers russes. Les hommes d’affaires sont convaincus qu’un petit appartement est une motivation pour atteindre des objectifs et non un obstacle à la naissance d’un enfant. Selon eux, le principal obstacle à la croissance démographique n’est pas la petite taille des appartements, mais le manque de motivation des citoyens à avoir au moins un premier enfant."
+}

@@ -3,6 +3,7 @@ let textsMetadata = {};
 let wordTranslations = {};
 let grammarInfo = {};
 let textContents = {};
+let explainTexts = {};
 
 // Load all data from files
 async function loadAllData() {
@@ -28,6 +29,10 @@ async function loadAllData() {
             const grammarRes = await fetch(`grammar/text-${i}.json`);
             if (!grammarRes.ok) throw new Error(`grammar/text-${i}.json not found`);
             grammarInfo[i] = await grammarRes.json();
+
+            const explainRes = await fetch(`explain/text-${i}.txt`);
+            if (!explainRes.ok) throw new Error(`explain/text-${i}.txt not found`);
+            explainTexts[i] = await explainRes.text();
         }
 
         console.log('All data loaded successfully');
@@ -100,4 +105,8 @@ function getLanguageCode(language) {
         'German': 'de'
     };
     return codes[language] || language.toLowerCase();
+}
+
+function getExplainText(textId) {
+    return explainTexts[textId] || 'Объяснение недоступно';
 }
