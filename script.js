@@ -33,7 +33,7 @@ function loadTextsList() {
 }
 
 function createTextCard(text) {
-    const icons = ['📖', '📚', '📝', '🗒️', '📄'];
+    const icons = ['📖'];
     const icon  = icons[(text.id - 1) % icons.length];
 
     const card = document.createElement('div');
