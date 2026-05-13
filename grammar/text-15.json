@@ -1,0 +1,307 @@
+{
+  "И.С.": {
+    "en": "abbreviation, proper noun",
+    "de": "Abkürzung, Eigenname",
+    "fr": "abréviation, nom propre"
+  },
+  "Тургенев": {
+    "en": "proper noun, masculine, nominative singular",
+    "de": "Eigenname, maskulin, Nominativ Singular",
+    "fr": "nom propre, masculin, nominatif singulier"
+  },
+  "«Хорь": {
+    "en": "proper noun with quotation mark, masculine",
+    "de": "Eigenname mit Anführungszeichen, maskulin",
+    "fr": "nom propre avec guillemet, masculin"
+  },
+  "и": {
+    "en": "conjunction",
+    "de": "Konjunktion",
+    "fr": "conjonction"
+  },
+  "Калиныч»": {
+    "en": "proper noun with quotation mark, masculine",
+    "de": "Eigenname mit Anführungszeichen, maskulin",
+    "fr": "nom propre avec guillemet, masculin"
+  },
+  "На": {
+    "en": "preposition",
+    "de": "Präposition",
+    "fr": "préposition"
+  },
+  "заре": {
+    "en": "noun, feminine, prepositional singular",
+    "de": "Substantiv, feminin, Präpositiv Singular",
+    "fr": "nom, féminin, locatif singulier"
+  },
+  "Федя": {
+    "en": "proper noun, masculine, nominative singular",
+    "de": "Eigenname, maskulin, Nominativ Singular",
+    "fr": "nom propre, masculin, nominatif singulier"
+  },
+  "разбудил": {
+    "en": "verb, past tense, masculine singular",
+    "de": "Verb, Vergangenheit, maskulin Singular",
+    "fr": "verbe, passé, masculin singulier"
+  },
+  "меня": {
+    "en": "personal pronoun, accusative singular",
+    "de": "Personalpronomen, Akkusativ Singular",
+    "fr": "pronom personnel, accusatif singulier"
+  },
+  "Этот": {
+    "en": "demonstrative pronoun, masculine, nominative singular",
+    "de": "Demonstrativpronomen, maskulin, Nominativ Singular",
+    "fr": "pronom démonstratif, masculin, nominatif singulier"
+  },
+  "веселый": {
+    "en": "adjective, masculine, nominative singular",
+    "de": "Adjektiv, maskulin, Nominativ Singular",
+    "fr": "adjectif, masculin, nominatif singulier"
+  },
+  "бойкий": {
+    "en": "adjective, masculine, nominative singular",
+    "de": "Adjektiv, maskulin, Nominativ Singular",
+    "fr": "adjectif, masculin, nominatif singulier"
+  },
+  "парень": {
+    "en": "noun, masculine, nominative singular",
+    "de": "Substantiv, maskulin, Nominativ Singular",
+    "fr": "nom, masculin, nominatif singulier"
+  },
+  "очень": {
+    "en": "adverb",
+    "de": "Adverb",
+    "fr": "adverbe"
+  },
+  "мне": {
+    "en": "personal pronoun, dative singular",
+    "de": "Personalpronomen, Dativ Singular",
+    "fr": "pronom personnel, datif singulier"
+  },
+  "нравился": {
+    "en": "verb, past tense, masculine singular",
+    "de": "Verb, Vergangenheit, maskulin Singular",
+    "fr": "verbe, passé, masculin singulier"
+  },
+  "да": {
+    "en": "conjunction",
+    "de": "Konjunktion",
+    "fr": "conjonction"
+  },
+  "сколько": {
+    "en": "adverbial pronoun",
+    "de": "Adverbialpronomen",
+    "fr": "pronom adverbial"
+  },
+  "я": {
+    "en": "personal pronoun, nominative singular",
+    "de": "Personalpronomen, Nominativ Singular",
+    "fr": "pronom personnel, nominatif singulier"
+  },
+  "мог": {
+    "en": "verb, past tense, masculine singular",
+    "de": "Verb, Vergangenheit, maskulin Singular",
+    "fr": "verbe, passé, masculin singulier"
+  },
+  "заметить": {
+    "en": "verb, infinitive",
+    "de": "Verb, Infinitiv",
+    "fr": "verbe, infinitif"
+  },
+  "у": {
+    "en": "preposition",
+    "de": "Präposition",
+    "fr": "préposition"
+  },
+  "старого": {
+    "en": "adjective, masculine, genitive singular",
+    "de": "Adjektiv, maskulin, Genitiv Singular",
+    "fr": "adjectif, masculin, génitif singulier"
+  },
+  "Хоря": {
+    "en": "proper noun, masculine, genitive singular",
+    "de": "Eigenname, maskulin, Genitiv Singular",
+    "fr": "nom propre, masculin, génitif singulier"
+  },
+  "он": {
+    "en": "personal pronoun, masculine, nominative singular",
+    "de": "Personalpronomen, maskulin, Nominativ Singular",
+    "fr": "pronom personnel, masculin, nominatif singulier"
+  },
+  "тоже": {
+    "en": "adverb",
+    "de": "Adverb",
+    "fr": "adverbe"
+  },
+  "был": {
+    "en": "verb, past tense, masculine singular",
+    "de": "Verb, Vergangenheit, maskulin Singular",
+    "fr": "verbe, passé, masculin singulier"
+  },
+  "любимцем": {
+    "en": "noun, masculine, instrumental singular",
+    "de": "Substantiv, maskulin, Instrumental Singular",
+    "fr": "nom, masculin, instrumental singulier"
+  },
+  "Они": {
+    "en": "personal pronoun, plural, nominative",
+    "de": "Personalpronomen, Plural, Nominativ",
+    "fr": "pronom personnel, pluriel, nominatif"
+  },
+  "оба": {
+    "en": "numeral pronoun, masculine, nominative plural",
+    "de": "Numeralpronomen, maskulin, Nominativ Plural",
+    "fr": "pronom numéral, masculin, nominatif pluriel"
+  },
+  "весьма": {
+    "en": "adverb",
+    "de": "Adverb",
+    "fr": "adverbe"
+  },
+  "любезно": {
+    "en": "adverb",
+    "de": "Adverb",
+    "fr": "adverbe"
+  },
+  "друг": {
+    "en": "pronoun noun, masculine",
+    "de": "Pronomen-Substantiv, maskulin",
+    "fr": "pronom substantivé, masculin"
+  },
+  "над": {
+    "en": "preposition",
+    "de": "Präposition",
+    "fr": "préposition"
+  },
+  "другом": {
+    "en": "pronoun noun, masculine, instrumental singular",
+    "de": "Pronomen-Substantiv, maskulin, Instrumental Singular",
+    "fr": "pronom substantivé, masculin, instrumental singulier"
+  },
+  "подтрунивали": {
+    "en": "verb, past tense, plural",
+    "de": "Verb, Vergangenheit, Plural",
+    "fr": "verbe, passé, pluriel"
+  },
+  "Старик": {
+    "en": "noun, masculine, nominative singular",
+    "de": "Substantiv, maskulin, Nominativ Singular",
+    "fr": "nom, masculin, nominatif singulier"
+  },
+  "вышел": {
+    "en": "verb, past tense, masculine singular",
+    "de": "Verb, Vergangenheit, maskulin Singular",
+    "fr": "verbe, passé, masculin singulier"
+  },
+  "ко": {
+    "en": "preposition",
+    "de": "Präposition",
+    "fr": "préposition"
+  },
+  "навстречу": {
+    "en": "adverb",
+    "de": "Adverb",
+    "fr": "adverbe"
+  },
+  "Оттого": {
+    "en": "adverb",
+    "de": "Adverb",
+    "fr": "adverbe"
+  },
+  "ли": {
+    "en": "particle",
+    "de": "Partikel",
+    "fr": "particule"
+  },
+  "что": {
+    "en": "conjunction/pronoun",
+    "de": "Konjunktion/Pronomen",
+    "fr": "conjonction/pronom"
+  },
+  "провел": {
+    "en": "verb, past tense, masculine singular",
+    "de": "Verb, Vergangenheit, maskulin Singular",
+    "fr": "verbe, passé, masculin singulier"
+  },
+  "ночь": {
+    "en": "noun, feminine, accusative singular",
+    "de": "Substantiv, feminin, Akkusativ Singular",
+    "fr": "nom, féminin, accusatif singulier"
+  },
+  "под": {
+    "en": "preposition",
+    "de": "Präposition",
+    "fr": "préposition"
+  },
+  "его": {
+    "en": "possessive pronoun",
+    "de": "Possessivpronomen",
+    "fr": "pronom possessif"
+  },
+  "кровом": {
+    "en": "noun, masculine, instrumental singular",
+    "de": "Substantiv, maskulin, Instrumental Singular",
+    "fr": "nom, masculin, instrumental singulier"
+  },
+  "по": {
+    "en": "preposition",
+    "de": "Präposition",
+    "fr": "préposition"
+  },
+  "другой": {
+    "en": "adjective, feminine, dative singular",
+    "de": "Adjektiv, feminin, Dativ Singular",
+    "fr": "adjectif, féminin, datif singulier"
+  },
+  "какой": {
+    "en": "interrogative pronoun, feminine, dative singular",
+    "de": "Interrogativpronomen, feminin, Dativ Singular",
+    "fr": "pronom interrogatif, féminin, datif singulier"
+  },
+  "причине": {
+    "en": "noun, feminine, dative singular",
+    "de": "Substantiv, feminin, Dativ Singular",
+    "fr": "nom, féminin, datif singulier"
+  },
+  "только": {
+    "en": "particle",
+    "de": "Partikel",
+    "fr": "particule"
+  },
+  "Хорь": {
+    "en": "proper noun, masculine, nominative singular",
+    "de": "Eigenname, maskulin, Nominativ Singular",
+    "fr": "nom propre, masculin, nominatif singulier"
+  },
+  "гораздо": {
+    "en": "adverb",
+    "de": "Adverb",
+    "fr": "adverbe"
+  },
+  "ласковее": {
+    "en": "comparative adjective",
+    "de": "Komparativ Adjektiv",
+    "fr": "adjectif comparatif"
+  },
+  "вчерашнего": {
+    "en": "adjective, masculine, genitive singular",
+    "de": "Adjektiv, maskulin, Genitiv Singular",
+    "fr": "adjectif, masculin, génitif singulier"
+  },
+  "обошелся": {
+    "en": "verb, past tense, masculine singular",
+    "de": "Verb, Vergangenheit, maskulin Singular",
+    "fr": "verbe, passé, masculin singulier"
+  },
+  "со": {
+    "en": "preposition",
+    "de": "Präposition",
+    "fr": "préposition"
+  },
+  "мной": {
+    "en": "personal pronoun, instrumental singular",
+    "de": "Personalpronomen, Instrumental Singular",
+    "fr": "pronom personnel, instrumental singulier"
+  }
+}
